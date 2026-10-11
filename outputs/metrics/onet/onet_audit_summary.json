@@ -1,0 +1,66 @@
+{
+  "source": "O*NET Database",
+  "files": {
+    "occupations": {
+      "rows": 1016,
+      "columns": 3,
+      "column_names": [
+        "O*NET-SOC Code",
+        "Title",
+        "Description"
+      ],
+      "duplicate_rows": 0,
+      "missing_cells": 0
+    },
+    "essential_skills": {
+      "rows": 18200,
+      "columns": 15,
+      "column_names": [
+        "O*NET-SOC Code",
+        "Title",
+        "Element ID",
+        "Element Name",
+        "Scale ID",
+        "Scale Name",
+        "Data Value",
+        "N",
+        "Standard Error",
+        "Lower CI Bound",
+        "Upper CI Bound",
+        "Recommend Suppress",
+        "Not Relevant",
+        "Date",
+        "Domain Source"
+      ],
+      "duplicate_rows": 0,
+      "missing_cells": 9100
+    },
+    "software_skills": {
+      "rows": 31821,
+      "columns": 7,
+      "column_names": [
+        "O*NET-SOC Code",
+        "Title",
+        "Workplace Example",
+        "Element ID",
+        "Element Name",
+        "Hot Technology",
+        "In Demand"
+      ],
+      "duplicate_rows": 0,
+      "missing_cells": 0
+    }
+  },
+  "relationships": {
+    "unique_occupation_codes": 1016,
+    "codes_in_essential_skills": 910,
+    "essential_codes_matching_occupation_data": 910,
+    "codes_in_software_skills": 923,
+    "software_codes_matching_occupation_data": 923
+  },
+  "essential_skills_importance_rows": 9100,
+  "essential_skill_names": 10,
+  "software_examples": 8753,
+  "hot_technology_yes_rows": 11571,
+  "in_demand_yes_rows": 2425
+}

@@ -1,0 +1,1549 @@
+function_label,posting_count,percent_of_all_postings
+Operations,771,0.683
+Sales,533,0.472
+Engineering,408,0.362
+Clinical,276,0.245
+Nursing,247,0.219
+Maintenance,141,0.125
+Customer Service,121,0.107
+Teaching,102,0.09
+Finance,101,0.09
+Marketing,84,0.074
+Software Development,81,0.072
+Logistics,74,0.066
+Quality Assurance,67,0.059
+Production,66,0.059
+Human Resources,65,0.058
+Project Management,59,0.052
+Consulting,58,0.051
+Administrative,57,0.051
+Clinical Support,55,0.049
+Product Management,51,0.045
+Accounting,46,0.041
+Business Development,45,0.04
+Security,45,0.04
+Security Operations,45,0.04
+Procurement,44,0.039
+Administration,43,0.038
+Analytics,41,0.036
+Therapy,41,0.036
+Support,38,0.034
+Store Operations,37,0.033
+Software Engineering,37,0.033
+Clinical Care,35,0.031
+Manufacturing,33,0.029
+Risk Management,32,0.028
+Supply Chain,31,0.027
+Laboratory,30,0.027
+Program Management,29,0.026
+Research,28,0.025
+Transportation,28,0.025
+Service,28,0.025
+"[""Operations""]",28,0.025
+Legal,27,0.024
+Food Service,27,0.024
+Client Management,24,0.021
+Warehouse Operations,24,0.021
+Retail,24,0.021
+Merchandising,23,0.02
+Culinary,23,0.02
+Data Engineering,23,0.02
+Operations Management,21,0.019
+Customer Support,21,0.019
+Technology,21,0.019
+Design,21,0.019
+Retail Banking,20,0.018
+Pharmacy,20,0.018
+Clinical Services,20,0.018
+Education,19,0.017
+Technical Support,19,0.017
+IT Operations,19,0.017
+"[""Sales""]",18,0.016
+Compliance,17,0.015
+Mechanical Engineering,17,0.015
+Account Management,16,0.014
+Communications,16,0.014
+Customer Success,16,0.014
+Property Management,16,0.014
+Guest Services,16,0.014
+Patient Care,16,0.014
+Banking,16,0.014
+Radiology,15,0.013
+Physical Therapy,15,0.013
+Field Sales,15,0.013
+Field Service,15,0.013
+"[""Engineering""]",14,0.012
+Hospitality,14,0.012
+Retail Operations,14,0.012
+"[""Clinical""]",14,0.012
+Installation,14,0.012
+Facilities Maintenance,13,0.012
+Patient Services,13,0.012
+Caregiving,13,0.012
+Food and Beverage Services,13,0.012
+Audit,13,0.012
+People Operations,13,0.012
+Healthcare,13,0.012
+"[""Operations"", ""Management""]",13,0.012
+Clinical Operations,12,0.011
+Recruiting,12,0.011
+Training,12,0.011
+Repair,12,0.011
+Patrol,12,0.011
+Business Analysis,11,0.01
+Information Technology,11,0.01
+Housekeeping,11,0.01
+Leasing,11,0.01
+Environmental Services,11,0.01
+Quality Control,11,0.01
+Commercial,11,0.01
+Recruitment,11,0.01
+Construction,11,0.01
+Caregiver,11,0.01
+Client Services,11,0.01
+Store Management,10,0.009
+Facilities Management,10,0.009
+"[""Nursing""]",10,0.009
+Revenue Cycle,10,0.009
+Data Science,10,0.009
+Management,10,0.009
+Instruction,10,0.009
+Data Management,10,0.009
+Field Operations,10,0.009
+Electrical Engineering,9,0.008
+Front Office,9,0.008
+Medical Affairs,9,0.008
+Support Services,9,0.008
+Data Analytics,9,0.008
+Digital Marketing,9,0.008
+"[""Customer Service""]",9,0.008
+Facilities,8,0.007
+Social Services,8,0.007
+Food & Beverage,8,0.007
+Delivery,8,0.007
+Administrative Support,8,0.007
+Case Management,8,0.007
+Sales Operations,8,0.007
+Strategy,8,0.007
+Project Controls,8,0.007
+Construction Management,8,0.007
+Relationship Management,8,0.007
+Inspection,8,0.007
+Patient Access,7,0.006
+Sales Engineering,7,0.006
+Pharmacy Operations,7,0.006
+Information Security,7,0.006
+Cybersecurity,7,0.006
+Engineering Management,7,0.006
+Social Work,7,0.006
+IT Support,7,0.006
+Marketing & Communications,7,0.006
+Architecture,7,0.006
+Tax,7,0.006
+"[""Teaching""]",7,0.006
+Systems Engineering,7,0.006
+Claims Management,7,0.006
+Front Desk,7,0.006
+Customer Experience Center,7,0.006
+Reconditioning,7,0.006
+Application Support,6,0.005
+"[""Maintenance""]",6,0.005
+Direct Care,6,0.005
+Instructional Support,6,0.005
+Structural Engineering,6,0.005
+Claims,6,0.005
+Manufacturing Engineering,6,0.005
+Data Operations,6,0.005
+"[""Finance""]",6,0.005
+Patient Support,6,0.005
+Training & Development,6,0.005
+Planning,6,0.005
+Finance Operations,6,0.005
+Clinical Research,6,0.005
+Field Technician,6,0.005
+Sales & Service,6,0.005
+IT,6,0.005
+Operational,6,0.005
+Counseling,6,0.005
+Civil Engineering,6,0.005
+Product,6,0.005
+Cost Management,6,0.005
+Coaching,6,0.005
+Billing,6,0.005
+Kitchen Operations,6,0.005
+Painting,6,0.005
+Wealth Management,5,0.004
+Litigation,5,0.004
+Laboratory Management,5,0.004
+"[""Human Resources""]",5,0.004
+"[""Administration""]",5,0.004
+Special Education,5,0.004
+Technician,5,0.004
+Business Operations,5,0.004
+Safety,5,0.004
+"[""Project Management""]",5,0.004
+Research & Development,5,0.004
+Laboratory Services,5,0.004
+Clinical Management,5,0.004
+"[""Marketing""]",5,0.004
+Laboratory Operations,5,0.004
+Investment Management,5,0.004
+Talent Acquisition,5,0.004
+HR Operations,5,0.004
+Legal Counsel,5,0.004
+Behavioral Health,5,0.004
+Assembly,5,0.004
+Professional,5,0.004
+Network Engineering,5,0.004
+Imaging,5,0.004
+Legal Support,5,0.004
+Driver,5,0.004
+Safety Management,5,0.004
+Nursing Management,4,0.004
+Community Management,4,0.004
+Testing,4,0.004
+Reception,4,0.004
+Treasury,4,0.004
+Rehabilitation,4,0.004
+Support Worker,4,0.004
+Financial Services,4,0.004
+Member Services,4,0.004
+Data Analysis,4,0.004
+Animal Care,4,0.004
+Customer Experience,4,0.004
+Backend Development,4,0.004
+Implementation,4,0.004
+Human Services,4,0.004
+"[""Production""]",4,0.004
+Learning & Development,4,0.004
+Library Services,4,0.004
+Public Safety,4,0.004
+Operations Support,4,0.004
+Branch Management,4,0.004
+Health Services,4,0.004
+"[""Clinical Care""]",4,0.004
+Clinical Leadership,4,0.004
+Cashier,4,0.004
+Accounts Receivable,4,0.004
+Product Design,4,0.004
+Process Development,4,0.004
+Retail Assistant,4,0.004
+"[""Engineering"", ""Operations""]",4,0.004
+Freight Dock,4,0.004
+Management Consulting,4,0.004
+Category Management,4,0.004
+IT Service Management,4,0.004
+Estimating,4,0.004
+"[""Accounting""]",4,0.004
+Strategy & Operations,4,0.004
+Security Engineering,4,0.004
+Purchasing,4,0.004
+Shop,4,0.004
+Software Testing,4,0.004
+Commercial Bank,4,0.004
+Corporate,4,0.004
+"[""Sales"", ""Customer Service""]",4,0.004
+Process Engineering,4,0.004
+Systems Administration,4,0.004
+Automation,4,0.004
+"[""Sales Engineering""]",4,0.004
+Admissions,4,0.004
+Applications Development,4,0.004
+"[""Finance"", ""Accounting""]",3,0.003
+Actuarial,3,0.003
+Intelligence,3,0.003
+Security Guard,3,0.003
+Asset Management,3,0.003
+Development,3,0.003
+Test Engineering,3,0.003
+Clinical Professional,3,0.003
+Investigations,3,0.003
+Service Management,3,0.003
+Platform Engineering,3,0.003
+"[""Housekeeping""]",3,0.003
+Solutions Architecture,3,0.003
+Mental Health Services,3,0.003
+Dentistry,3,0.003
+Grooming,3,0.003
+Food Services,3,0.003
+Quality,3,0.003
+Executive Support,3,0.003
+"[""Legal""]",3,0.003
+Editorial,3,0.003
+sales,3,0.003
+Operations - Collection,3,0.003
+"[""Field Service""]",3,0.003
+Quality Engineering,3,0.003
+Marketing Operations,3,0.003
+Optometry,3,0.003
+Revenue Cycle Management,3,0.003
+Retail Management,3,0.003
+Data & Analytics,3,0.003
+Risk,3,0.003
+"[""Assurance""]",3,0.003
+Environmental Consulting,3,0.003
+Emergency Services,3,0.003
+Hardware Engineering,3,0.003
+"[""Quality Assurance""]",3,0.003
+Paralegal,3,0.003
+Cardiology,3,0.003
+Trading,3,0.003
+Product Development,3,0.003
+Infrastructure,3,0.003
+"[""Clinical Operations""]",3,0.003
+Guest Service,3,0.003
+Public Relations,3,0.003
+Underwriting,3,0.003
+HR Business Partner,3,0.003
+Legal Services,3,0.003
+Record to Report,3,0.003
+Quality Management,3,0.003
+Business Intelligence,3,0.003
+Sourcing,3,0.003
+Finance & Accounting,3,0.003
+Law Enforcement,3,0.003
+Infrastructure Engineering,3,0.003
+Retail Sales,3,0.003
+Technical,3,0.003
+Cleaning,3,0.003
+Rehabilitation Services,3,0.003
+Behavior Technician,3,0.003
+Fabrication,3,0.003
+Environmental Management,3,0.003
+Leadership,3,0.003
+Maintenance & Repair,3,0.003
+Risk & Compliance,3,0.003
+"[""Therapy""]",3,0.003
+Client Success,3,0.003
+DevOps,3,0.003
+Community Outreach,3,0.003
+Sales & Marketing,3,0.003
+Mechanical,3,0.003
+Sustainability,3,0.003
+Loan Origination,3,0.003
+Product Operations,3,0.003
+Medical,3,0.003
+Services,3,0.003
+"[""Construction""]",3,0.003
+Consumer Bank,3,0.003
+Electrical,3,0.003
+Care,3,0.003
+Guest Services/Front Desk,3,0.003
+Spa/Salon,3,0.003
+Sales & Business Development,3,0.003
+Canada Retail Store Operations,3,0.003
+Supermarket Operations,2,0.002
+Patient Scheduling,2,0.002
+Agile Delivery,2,0.002
+Dispatch,2,0.002
+"[""Facilities""]",2,0.002
+Nutrition Services,2,0.002
+Service Advisor,2,0.002
+Managerial,2,0.002
+Care Management,2,0.002
+Security Officer,2,0.002
+Field Engineering,2,0.002
+Cloud Operations,2,0.002
+Information Management,2,0.002
+Direct Support,2,0.002
+Registered Nurse,2,0.002
+Commercial Operations,2,0.002
+"[""IT Operations""]",2,0.002
+Technologists and Technicians,2,0.002
+Culinary Operations,2,0.002
+Patient care,2,0.002
+Statistical Programming,2,0.002
+Service Technician,2,0.002
+Technical Services,2,0.002
+Custodial,2,0.002
+Dealer,2,0.002
+"[""Merchandising""]",2,0.002
+"[""Recruiting"", ""Talent Acquisition""]",2,0.002
+Client Service,2,0.002
+Project Delivery,2,0.002
+Front End,2,0.002
+Market Access,2,0.002
+Nursing Administration,2,0.002
+Senior Living,2,0.002
+Production Support,2,0.002
+Administrative Services,2,0.002
+Product Engineering,2,0.002
+IT Services,2,0.002
+"[""Architecture""]",2,0.002
+Outside Sales,2,0.002
+Facility Maintenance,2,0.002
+Professional Services,2,0.002
+Environmental Compliance,2,0.002
+Supply Chain Management,2,0.002
+Cash Management,2,0.002
+Technical Inspection,2,0.002
+Youth Services,2,0.002
+Content Management,2,0.002
+Restaurant Operations,2,0.002
+Commercial Banking,2,0.002
+Continuous Improvement,2,0.002
+"[""Recruiting""]",2,0.002
+"[""Customer Support""]",2,0.002
+Customer Operations,2,0.002
+Health IT,2,0.002
+Guest Relations,2,0.002
+"[""Client Management""]",2,0.002
+Data Governance,2,0.002
+Cultivation,2,0.002
+Data Collection,2,0.002
+Order Fulfillment,2,0.002
+Public Works,2,0.002
+Ministry,2,0.002
+Sales Management,2,0.002
+Records Management,2,0.002
+Delivery Operations,2,0.002
+Event Operations,2,0.002
+Operations Maintenance,2,0.002
+Facility Operations,2,0.002
+Recreation Therapy,2,0.002
+Product Support,2,0.002
+Research Administration,2,0.002
+Student Support,2,0.002
+"[""Warehouse Operations""]",2,0.002
+Advertising,2,0.002
+Database Administration,2,0.002
+Regulatory Affairs,2,0.002
+Internal Audit,2,0.002
+"[""Research""]",2,0.002
+"[""Support""]",2,0.002
+Pricing,2,0.002
+Financial Planning & Analysis,2,0.002
+Community Development,2,0.002
+Localization QA,2,0.002
+Business Process,2,0.002
+Application Development,2,0.002
+Industrial Engineering,2,0.002
+Digital Media,2,0.002
+Transformation,2,0.002
+Dining Services,2,0.002
+Systems,2,0.002
+Operational Delivery,2,0.002
+Medical Services,2,0.002
+Stock Operations,2,0.002
+ASESOR,2,0.002
+Retail Debt Collection,2,0.002
+Contract Management,2,0.002
+Corporate Affairs,2,0.002
+Sales Support,2,0.002
+Protection,2,0.002
+Banking Operations,2,0.002
+Pathology,2,0.002
+"[""Administrative""]",2,0.002
+Installation & Service,2,0.002
+P&D,2,0.002
+"[""Business development""]",2,0.002
+Service Center,2,0.002
+Individual Contributor,2,0.002
+Student Services,2,0.002
+Service & Support,2,0.002
+"[""Administrative Office Support""]",2,0.002
+"[""Operations"", ""Maintenance""]",2,0.002
+Support Staff,2,0.002
+Child Care,2,0.002
+Business Process Consulting,2,0.002
+"[""Security Operations""]",2,0.002
+Direct Patient Care,2,0.002
+Facilities and Support Services,2,0.002
+Audit & Assurance,2,0.002
+Partnerships,2,0.002
+Visual Merchandising,2,0.002
+Design & Construction,2,0.002
+Coding,2,0.002
+Project Management - Generalist,2,0.002
+Behavioral Services,2,0.002
+"[""Operations"", ""Program Management""]",2,0.002
+Clinical Coordination,2,0.002
+Psychology,2,0.002
+"[""Sales"", ""Business Development""]",2,0.002
+Customer Services,2,0.002
+Legal & Compliance,2,0.002
+Media,2,0.002
+"[""Operations"", ""Customer Service""]",2,0.002
+"[""Clinical Support""]",2,0.002
+Clinical Nursing,2,0.002
+Guard,2,0.002
+Delivery Management,2,0.002
+Sanitation,2,0.002
+Infrastructure Operations,2,0.002
+Technology Consulting,2,0.002
+Kitchen,2,0.002
+Network Operations,2,0.002
+Finance and Accounting,2,0.002
+Detailing,2,0.002
+Gym Management,2,0.002
+Service Delivery,2,0.002
+Academic Administration,2,0.002
+Retail Pharmacy,2,0.002
+Strategy & Consulting,2,0.002
+Revenue Operations,2,0.002
+Process Architecture,2,0.002
+Cloud Engineering,2,0.002
+Labor,2,0.002
+Financial Analysis,2,0.002
+Ventas,2,0.002
+Credit & Collections,2,0.002
+Patient Experience,2,0.002
+Safety & Compliance,2,0.002
+"[""Account Management""]",2,0.002
+Hotel Operations,2,0.002
+Clinical Laboratory,2,0.002
+Content Marketing,2,0.002
+Child Welfare,2,0.002
+Transaction Processing,2,0.002
+IT Consulting,2,0.002
+Health Information Management,2,0.002
+Information Modelling,2,0.002
+Marketing Analytics,2,0.002
+Web Development,2,0.002
+Nutrition,2,0.002
+Gold Loans,2,0.002
+Care Coordination,2,0.002
+Traditional,2,0.002
+Channel,2,0.002
+Mental Health,2,0.002
+Instructional Design,2,0.002
+Event Management,2,0.002
+Engineering and Facilities Maintenance,2,0.002
+Kitchen & Stewarding,2,0.002
+Brand Representation,2,0.002
+Activities,2,0.002
+"[""Technology""]",2,0.002
+Risk & Control,2,0.002
+Dental,2,0.002
+Technical Account Management,2,0.002
+Industrial Advisory,2,0.002
+Bakery,2,0.002
+Distribution,2,0.002
+Outreach,2,0.002
+"[""Engineering"", ""Architecture""]",2,0.002
+Clerical,2,0.002
+Corrections,2,0.002
+Integration Development,2,0.002
+Client Advisory,2,0.002
+Media Operations,2,0.002
+"Health, Safety & Environmental",2,0.002
+Regulatory,2,0.002
+"[""Operations"", ""Administration""]",2,0.002
+Collections,2,0.002
+Classified,2,0.002
+Housekeeping/Cleaners - Cleaners,2,0.002
+Technicians,2,0.002
+Pet Care,2,0.002
+Distribution Center,2,0.002
+Rights Management,1,0.001
+Client Experience,1,0.001
+Medical Review,1,0.001
+Insights,1,0.001
+Content Moderation,1,0.001
+AI/ML,1,0.001
+Inpatient Care,1,0.001
+Loan Operations,1,0.001
+Document Management,1,0.001
+Layout Engineering,1,0.001
+Surgical Services,1,0.001
+"[""Food & Beverage""]",1,0.001
+Research Management,1,0.001
+General Mgmt/Bus Ops,1,0.001
+"[""Office/Clerical""]",1,0.001
+Office/Clerical,1,0.001
+Finance & Accounting - Operations,1,0.001
+Engineer,1,0.001
+Culinary Administration,1,0.001
+"[""Enterprise Resource Planning""]",1,0.001
+"[""Field Sales""]",1,0.001
+"[""Data Science""]",1,0.001
+Advancement Administration,1,0.001
+Patient Support Services,1,0.001
+Access Control,1,0.001
+Security Supervision,1,0.001
+Clinical Research Management,1,0.001
+"[""Academic Leadership""]",1,0.001
+Heavy civil/industrial construction,1,0.001
+Registered Nurse -Nonbedside,1,0.001
+"[""Health & Safety""]",1,0.001
+Building Maintenance,1,0.001
+In-Flight Service,1,0.001
+Financial Wellness,1,0.001
+Agronomy,1,0.001
+School administration,1,0.001
+System Administration,1,0.001
+"[""Service Management""]",1,0.001
+Information Systems,1,0.001
+Design and Construction,1,0.001
+"[""Laboratory""]",1,0.001
+Operations Research,1,0.001
+"[""Non Clinical""]",1,0.001
+HSE,1,0.001
+Trust Services Analyst,1,0.001
+Payroll Management,1,0.001
+Applied Technical & Professional,1,0.001
+Auxiliary Care,1,0.001
+"Seller Onboarding, Marketplace Integration",1,0.001
+"[""Mechanical Engineering""]",1,0.001
+Automation/Instrumentation,1,0.001
+Asset Integrity Management,1,0.001
+Family Services,1,0.001
+Supplier Quality,1,0.001
+Analytics Consulting,1,0.001
+Scheduling,1,0.001
+Test & Evaluation,1,0.001
+Hair Styling,1,0.001
+Information Services,1,0.001
+Salon Services,1,0.001
+Home Care,1,0.001
+CMC Project Management,1,0.001
+Truck Driving,1,0.001
+Sales/Marketing,1,0.001
+Provider,1,0.001
+"[""Student Worker""]",1,0.001
+Social Media Management,1,0.001
+Therapy/Rehab,1,0.001
+"[""Business Development""]",1,0.001
+Cloud Infrastructure,1,0.001
+Value Engineering,1,0.001
+Marketing/SEO,1,0.001
+Warranty Support,1,0.001
+Corporate Travel,1,0.001
+"[""Case Management""]",1,0.001
+"[""Retail""]",1,0.001
+Academic Coordination,1,0.001
+Deployment Management,1,0.001
+"[""Activities Coordination""]",1,0.001
+Functional Safety,1,0.001
+Research Studies/ Clin Trial,1,0.001
+Operational Excellence,1,0.001
+Accounts Payable and Receivable,1,0.001
+Therapy/Rehabilitation,1,0.001
+"[""Engineering"", ""AI""]",1,0.001
+Equipment Maintenance,1,0.001
+Workforce Development,1,0.001
+Receptionist,1,0.001
+Childcare,1,0.001
+Finance Consulting,1,0.001
+Reporting/Analytics,1,0.001
+Airport Operations,1,0.001
+Growth Management,1,0.001
+Industrial Safety,1,0.001
+Field Services,1,0.001
+Front Desk Management,1,0.001
+Depository Operations,1,0.001
+Pre‑Sales Engineering,1,0.001
+Employee Health,1,0.001
+Security Governance,1,0.001
+Clinical Tech,1,0.001
+Plant Operations,1,0.001
+Education Management,1,0.001
+Grooming Services,1,0.001
+IT Service Desk,1,0.001
+Courtesy Clerk,1,0.001
+Team Member,1,0.001
+Communication Planning,1,0.001
+"Center Store (Grocery, Alcohol)",1,0.001
+"[""Accounts Receivable""]",1,0.001
+Center Store,1,0.001
+Vehicle Integration,1,0.001
+Investment Banking,1,0.001
+Business Services,1,0.001
+Asset Protection,1,0.001
+Payroll,1,0.001
+Customer Experience Management,1,0.001
+"[""Sterile Processing""]",1,0.001
+Collections Operations,1,0.001
+Inventory Control,1,0.001
+Bedside Nursing,1,0.001
+Human Resources Services,1,0.001
+"[""Strategy & Transformation""]",1,0.001
+"[""Technical Leadership""]",1,0.001
+Analytical Development,1,0.001
+Utilities,1,0.001
+HRIS,1,0.001
+Migration assistance,1,0.001
+Food Preparation,1,0.001
+"[""EHS""]",1,0.001
+Laboratory Administration,1,0.001
+IT Infrastructure,1,0.001
+Safety Engineering,1,0.001
+Semiconductor Engineering,1,0.001
+Commercial Management,1,0.001
+Industrial Operations,1,0.001
+Operations and Maintenance,1,0.001
+"[""Business Operations""]",1,0.001
+Agency Management,1,0.001
+Cell Therapy,1,0.001
+"[""Mergers & Acquisitions""]",1,0.001
+Rental Service,1,0.001
+Agent Support,1,0.001
+Home Health Services,1,0.001
+Audit and Risk,1,0.001
+logistics,1,0.001
+Data and Quantitative Analysis,1,0.001
+Accounting Services,1,0.001
+"[""Creative""]",1,0.001
+Financial reporting,1,0.001
+Senior Living Care,1,0.001
+Clinical Supervision,1,0.001
+Personal Care,1,0.001
+Carbon Accounting,1,0.001
+IT consulting,1,0.001
+Project Coordination,1,0.001
+Digital Forensics,1,0.001
+PD Operations and Quality,1,0.001
+cooking,1,0.001
+Clinical Development,1,0.001
+"Sales Strategy, Performance Management",1,0.001
+"[""Power Delivery""]",1,0.001
+"[""Leasing""]",1,0.001
+Geospatial Analysis,1,0.001
+Advertising Sales,1,0.001
+Kitchen Support,1,0.001
+Housing Services,1,0.001
+Program Controls,1,0.001
+Laboratory Technician,1,0.001
+Benefits Administration,1,0.001
+Field Sales Support,1,0.001
+Dispensary Operations,1,0.001
+Office Management,1,0.001
+"[""Communications"", ""Project Management""]",1,0.001
+care management,1,0.001
+Application Engineering,1,0.001
+CRM,1,0.001
+Restaurant Service,1,0.001
+Finance/Accounting,1,0.001
+Payor Partnerships,1,0.001
+Home Health Nursing,1,0.001
+Technical Documentation,1,0.001
+"Accounting,Finance",1,0.001
+"[""Manufacturing""]",1,0.001
+Mortgage Lending,1,0.001
+Escrow Administration,1,0.001
+Rehabilitation Management,1,0.001
+Software Solutions Management,1,0.001
+Retail Merchandising,1,0.001
+Medical Office,1,0.001
+Teller,1,0.001
+"[""Patient services""]",1,0.001
+Client Services Management,1,0.001
+production management,1,0.001
+"Compliance,Risk,GRC",1,0.001
+Campaign Management,1,0.001
+Medical Assistance,1,0.001
+"Maintenance,Reliability",1,0.001
+Hotel Management,1,0.001
+Logistics & Sustainment,1,0.001
+production,1,0.001
+Nursing Education,1,0.001
+"[""Internal Audit""]",1,0.001
+Cultural Heritage Management,1,0.001
+Wirtschaftsprüfung,1,0.001
+Finance Management,1,0.001
+Casework,1,0.001
+Risk Reporting,1,0.001
+"[""Safety Operations""]",1,0.001
+Production Supervision,1,0.001
+Strategy & Execution,1,0.001
+Compliance/Audit,1,0.001
+Electrical Systems Engineering,1,0.001
+Product Industrialization,1,0.001
+Building,1,0.001
+Mechanical Design,1,0.001
+research,1,0.001
+Fund Accounting,1,0.001
+change management,1,0.001
+Clinic Support,1,0.001
+Mobile Development,1,0.001
+Building Department,1,0.001
+Occupational Therapy,1,0.001
+Survey Project Management,1,0.001
+"[""Risk Management"", ""Programme Controls""]",1,0.001
+Aquatics,1,0.001
+Checkout,1,0.001
+IT Development,1,0.001
+Warehouse Management,1,0.001
+Geospatial analysis,1,0.001
+R&D,1,0.001
+Court Services,1,0.001
+Firefighting,1,0.001
+Quality Improvement,1,0.001
+"[""Media Management""]",1,0.001
+Education/Childcare,1,0.001
+HR Systems,1,0.001
+"[""Violence Prevention""]",1,0.001
+Automotive Maintenance,1,0.001
+Civil Rights Investigation,1,0.001
+Parks maintenance,1,0.001
+Counselling,1,0.001
+Mosquito Control,1,0.001
+Public Information,1,0.001
+Solid Waste Management,1,0.001
+Justice Services,1,0.001
+ERP Support,1,0.001
+Library Operations,1,0.001
+Infrastructure Planning,1,0.001
+Investment Research,1,0.001
+Donor Services,1,0.001
+"[""Mental Health Services""]",1,0.001
+Public Health Nursing,1,0.001
+Utility Operations,1,0.001
+Land Development Services,1,0.001
+Sterile Processing,1,0.001
+Auditing,1,0.001
+Real Estate Data Management,1,0.001
+Media Buying,1,0.001
+"Provider Experience, NPS, Program Management",1,0.001
+Clinical Documentation,1,0.001
+Accounting/Finance,1,0.001
+M&A Integration,1,0.001
+Payments,1,0.001
+Clinical Lab,1,0.001
+Print Production,1,0.001
+"Safety Assurance, Statistics",1,0.001
+"[""Mental Health""]",1,0.001
+"[""Manufacturing Operations""]",1,0.001
+Field Service Engineering,1,0.001
+"[""Communications""]",1,0.001
+Food service,1,0.001
+Trade Compliance,1,0.001
+Automation Engineering,1,0.001
+"[""Data Quality""]",1,0.001
+Patient Care Coordination,1,0.001
+Cemetery Maintenance,1,0.001
+"[""Product support""]",1,0.001
+Intellectual Property,1,0.001
+Parts Sales,1,0.001
+Reward & Compensation,1,0.001
+Capital Markets,1,0.001
+"[""Infrastructure Operations""]",1,0.001
+Operations Quality,1,0.001
+"Strategy, Commercial Management",1,0.001
+Service Transition Management,1,0.001
+"[""Supply Chain Management""]",1,0.001
+"[""Health Information Systems""]",1,0.001
+Safety/Prevention,1,0.001
+Finance Leadership,1,0.001
+Sales & Leasing,1,0.001
+Clinical Programs,1,0.001
+Parts Specialist,1,0.001
+Training Support,1,0.001
+Surgical Support,1,0.001
+Operações,1,0.001
+Sales Development,1,0.001
+Mortgage Servicing,1,0.001
+Innovation,1,0.001
+LQA,1,0.001
+"Governance,Risk & Compliance",1,0.001
+Security GRC,1,0.001
+Compensation,1,0.001
+Advisory,1,0.001
+Financial Control,1,0.001
+Education & Training,1,0.001
+Analytics & Data Science,1,0.001
+"[""Operations"", ""Continuous Improvement""]",1,0.001
+HR Strategy,1,0.001
+Credit,1,0.001
+"[""Marketing Operations""]",1,0.001
+Early Years / Pupil Support,1,0.001
+Inventory Management,1,0.001
+Resident Engagement,1,0.001
+"[""Materials Management"", ""Warehouse Operations""]",1,0.001
+Student,1,0.001
+Sales Enablement,1,0.001
+Sales & Operations,1,0.001
+Housing,1,0.001
+"[""Compliance"", ""Risk management""]",1,0.001
+Teacher,1,0.001
+Music,1,0.001
+Learning Support,1,0.001
+"[""Teaching support""]",1,0.001
+Contract and Procurement,1,0.001
+Therapeutic Recreation,1,0.001
+Corporate Audit,1,0.001
+Family Support,1,0.001
+Survey,1,0.001
+Business Support,1,0.001
+Backend Engineering,1,0.001
+Cleaners,1,0.001
+Housing Support,1,0.001
+"[""Teaching"", ""Support""]",1,0.001
+Organisational Design,1,0.001
+Support and Service,1,0.001
+Client Relationship Management,1,0.001
+School Office Support,1,0.001
+"[""Engineering"", ""Leadership""]",1,0.001
+Public Policy,1,0.001
+Para,1,0.001
+"[""Construction Management"", ""Regulatory Affairs""]",1,0.001
+Science and Engineering,1,0.001
+"[""Craftsman""]",1,0.001
+Eriasteiset sairaanhoitajat,1,0.001
+Management/Operations,1,0.001
+"[""Administrativo""]",1,0.001
+Administrativo,1,0.001
+Audit & Compliance,1,0.001
+Operaciones,1,0.001
+Data Integration,1,0.001
+TECNICO,1,0.001
+SUPERVISOR,1,0.001
+Tutoring,1,0.001
+PROYECTISTA OBRAS,1,0.001
+CAJERO,1,0.001
+LIDER DE PROYECTO,1,0.001
+Engineering and Design,1,0.001
+Delivery Direction and Control,1,0.001
+"[""Teaching"", ""Childcare""]",1,0.001
+Retail Store Manager,1,0.001
+Salon,1,0.001
+Personal Training,1,0.001
+ESG Reporting,1,0.001
+"[""Research"", ""Product Development""]",1,0.001
+Funeralcare Operations,1,0.001
+"[""Analytics Engineering"", ""Data Engineering""]",1,0.001
+Forensic Engineering,1,0.001
+Employment Services,1,0.001
+UX/UI Development,1,0.001
+Train and Engine,1,0.001
+"[""Operations"", ""Sales Operations""]",1,0.001
+National Account Management,1,0.001
+Leader,1,0.001
+Plant Care,1,0.001
+Behavioral Care,1,0.001
+Clinical Practice and Care Management,1,0.001
+Advocacy,1,0.001
+"[""Counseling""]",1,0.001
+Craft,1,0.001
+Loss Prevention,1,0.001
+Allied Health Professionals,1,0.001
+Power Delivery,1,0.001
+"[""Reporting"", ""Data Analysis""]",1,0.001
+"[""Field service"", ""Maintenance""]",1,0.001
+Publishing,1,0.001
+Healthcare IT,1,0.001
+"[""Reporting""]",1,0.001
+Salesforce Administration,1,0.001
+Medical Communications,1,0.001
+"[""Clerical - Revenue Management""]",1,0.001
+Research & Evaluation,1,0.001
+Faculty,1,0.001
+Technicians and Specialist,1,0.001
+Event Security,1,0.001
+Craft Work,1,0.001
+Business & Finance,1,0.001
+Production Management,1,0.001
+"[""Consulting"", ""Pre‑Sales""]",1,0.001
+Servers,1,0.001
+Applications,1,0.001
+Therapy Support,1,0.001
+Finance Transformation,1,0.001
+Tax & Treasury,1,0.001
+Finance Enablement & Operations,1,0.001
+"Engineering, Procurement, Manufacturing",1,0.001
+Sales Support & Service,1,0.001
+Clerical and administrative non clinical,1,0.001
+Environment and food services non clinical,1,0.001
+Product Launch,1,0.001
+Patient Care Support,1,0.001
+Product Lifecycle Management,1,0.001
+Program Leadership,1,0.001
+Generalist,1,0.001
+Licensed Practical Nurse / Registered Nurse,1,0.001
+"[""Production"", ""Operations""]",1,0.001
+Production Planning,1,0.001
+Home Health Aide,1,0.001
+Enterprise Resource Planning,1,0.001
+Sales/Account Management,1,0.001
+Nursing Care,1,0.001
+Biostatistics,1,0.001
+Behavioral Analysis,1,0.001
+Planning & Budgeting,1,0.001
+"[""Sales"", ""Operations""]",1,0.001
+Data Modeling,1,0.001
+Reliability,1,0.001
+Preschool Director,1,0.001
+APPLICATIONS,1,0.001
+Digital Solutions,1,0.001
+"[""Account Management"", ""Technical Support"", ""Project Management""]",1,0.001
+Car Sales,1,0.001
+"[""Analytics"", ""Data Engineering""]",1,0.001
+Fund Administration,1,0.001
+"[""Operations"", ""Facilities""]",1,0.001
+Retail_Services,1,0.001
+Marketing Enablement,1,0.001
+Operations & Maintenance,1,0.001
+ILS,1,0.001
+E‑commerce Operations,1,0.001
+Therapist,1,0.001
+Health & Safety,1,0.001
+"[""Product"", ""Marketing"", ""Design"", ""Sales"", ""Operations""]",1,0.001
+Front-End Development,1,0.001
+Partner Sales,1,0.001
+Front‑end Development,1,0.001
+Presales,1,0.001
+Cost Intelligence,1,0.001
+Risk & Controls,1,0.001
+Planning & Scheduling,1,0.001
+"[""Food Service""]",1,0.001
+"[""Analytics"", ""Engineering""]",1,0.001
+Inside Sales,1,0.001
+Product management,1,0.001
+ERP,1,0.001
+Data & AI Strategy,1,0.001
+EPM,1,0.001
+Full-Stack Development,1,0.001
+Non Clinical,1,0.001
+"[""Credit Analysis"", ""Risk Management""]",1,0.001
+Diagnostic Imaging,1,0.001
+CLINICAL,1,0.001
+Logística,1,0.001
+"[""Special education""]",1,0.001
+School Administration,1,0.001
+"[""Field - Sales, Merch & Retail""]",1,0.001
+"Field - Sales, Merch & Retail",1,0.001
+Product Owner,1,0.001
+Field Marketing,1,0.001
+AI Delivery,1,0.001
+"Housekeeping, Dealers",1,0.001
+"[""Healthcare"", ""Case Management""]",1,0.001
+"[""Research Studies/Clin Trial""]",1,0.001
+Postdoctoral Scholar,1,0.001
+Systems Analysis,1,0.001
+Admissions/Registration,1,0.001
+Electric Operations,1,0.001
+Teaching Support,1,0.001
+Patient_Support,1,0.001
+"[""Hospital Administration""]",1,0.001
+Partner Management,1,0.001
+Dental assistance,1,0.001
+Public Health,1,0.001
+Verification,1,0.001
+Clinical Applications,1,0.001
+Clinical Sales,1,0.001
+Finance Analytics,1,0.001
+Custodial Services,1,0.001
+"[""Speech Pathology""]",1,0.001
+Resident Care,1,0.001
+Technical Consulting,1,0.001
+Transportation Infrastructure,1,0.001
+Manufacturing Operations,1,0.001
+Financial Systems Analyst,1,0.001
+Audio Visual Support,1,0.001
+Accounts Payable,1,0.001
+Customer education,1,0.001
+"[""Cook""]",1,0.001
+Heavy Equipment Operation,1,0.001
+Gaming Operations,1,0.001
+Golf Operations,1,0.001
+Clinical Data Management,1,0.001
+Patient Access/Admitting,1,0.001
+Imaging/Radiology,1,0.001
+Cardiology/Cardivasc/Cath Lab,1,0.001
+Change Management,1,0.001
+"[""Relationship Management"", ""Training"", ""Team Leadership""]",1,0.001
+Therapy Services,1,0.001
+Identity Governance,1,0.001
+Department Leader,1,0.001
+Market Analyst,1,0.001
+Air Freight Operations,1,0.001
+Provider Coordination,1,0.001
+"[""Sales administration""]",1,0.001
+Office services,1,0.001
+"[""Cataloguing""]",1,0.001
+Offshore operations,1,0.001
+Hardware Compliance,1,0.001
+IT & Business Services,1,0.001
+Manufacturing Science & Technology,1,0.001
+Product Strategy,1,0.001
+Enterprise Transformation,1,0.001
+Labor & Employment,1,0.001
+Client Engagement,1,0.001
+Healthcare support,1,0.001
+Site Merchandising,1,0.001
+"[""Information Security""]",1,0.001
+Community Support,1,0.001
+"[""Environmental Management""]",1,0.001
+"[""Truck Maintenance""]",1,0.001
+PR & Communications,1,0.001
+Hearing Care,1,0.001
+"Business Development, M&A",1,0.001
+Bridge Design,1,0.001
+Equity Cash,1,0.001
+Entertainment,1,0.001
+IT & Engineering,1,0.001
+Environmental Monitoring,1,0.001
+"[""Backend Development""]",1,0.001
+"[""Logistics""]",1,0.001
+Sample preparation,1,0.001
+"[""Laboratory technician""]",1,0.001
+Enterprise Software,1,0.001
+"[""Technical""]",1,0.001
+"[""Quality Management"", ""Compliance""]",1,0.001
+Commercial Lines Underwriter,1,0.001
+Talent acquisition,1,0.001
+Business Advisory,1,0.001
+Creative,1,0.001
+"[""Patrol"", ""Inspection"", ""Reporting""]",1,0.001
+Project Engineering,1,0.001
+Creative Strategy,1,0.001
+"[""Service"", ""Operations""]",1,0.001
+Management Control,1,0.001
+Media Activation,1,0.001
+"[""Legal Counsel""]",1,0.001
+Executive Briefing,1,0.001
+Vendor Management,1,0.001
+"[""Data Architecture"", ""Revenue Operations""]",1,0.001
+"[""Finance"", ""Strategy""]",1,0.001
+Interpretation,1,0.001
+Piping,1,0.001
+Fundraising,1,0.001
+Billing and Revenue Cycle,1,0.001
+Technology & Digital,1,0.001
+Compensation and Benefits,1,0.001
+Product & Strategy,1,0.001
+Research and Academics,1,0.001
+"[""Sales"", ""Service Management""]",1,0.001
+Sampling,1,0.001
+Sales & Commercial,1,0.001
+Preconstruction,1,0.001
+Operations & Strategy,1,0.001
+Clinical Pharmacy,1,0.001
+"[""Clinical Support"", ""Patient Care""]",1,0.001
+Sales &amp; Account Management,1,0.001
+Clinical Liaison,1,0.001
+Underwriting Non-Life - Commercial Lines,1,0.001
+Claims - Non-Life,1,0.001
+Project/Program Management,1,0.001
+Material Handling,1,0.001
+Fulfillment,1,0.001
+Owner Operator,1,0.001
+"[""Engineering"", ""Technical Leadership""]",1,0.001
+"[""Data Engineering"", ""AI Engineering"", ""Automation""]",1,0.001
+Interns,1,0.001
+Art,1,0.001
+Sales & Events,1,0.001
+IT Management,1,0.001
+"[""Software Development"", ""Solution Architecture""]",1,0.001
+"[""Project Management"", ""Operations""]",1,0.001
+Business,1,0.001
+Client Coverage,1,0.001
+Corporate Actions & Tax,1,0.001
+"[""Data Science"", ""Risk Management""]",1,0.001
+Nanny,1,0.001
+"[""Research"", ""Strategy"", ""Consulting""]",1,0.001
+"[""Administrative Support""]",1,0.001
+Sales and Client Management,1,0.001
+Collection,1,0.001
+"[""Sales"", ""Teamlead""]",1,0.001
+"[""Operations"", ""Process Improvement""]",1,0.001
+Director,1,0.001
+Bioanalytical Scientist,1,0.001
+Hydrogeology,1,0.001
+"[""Geology""]",1,0.001
+Geotechnical,1,0.001
+Mining Engineering,1,0.001
+GIS,1,0.001
+Installation & Repair,1,0.001
+Compensation & Benefits,1,0.001
+Bookkeeping,1,0.001
+Financial Planning,1,0.001
+Enterprise Technology,1,0.001
+Regulatory Compliance,1,0.001
+Hair Specialist,1,0.001
+Cosmetology,1,0.001
+Sales Excellence,1,0.001
+Embedded Engineering,1,0.001
+Business Systems,1,0.001
+"[""Inspection""]",1,0.001
+Office,1,0.001
+"[""Consulting"", ""Tax""]",1,0.001
+Portfolio Valuation,1,0.001
+"[""Finance Operations""]",1,0.001
+Diagnostics,1,0.001
+Account Development,1,0.001
+Social Media,1,0.001
+Geoscience,1,0.001
+Environmental Science,1,0.001
+MGT,1,0.001
+Corporate Communications,1,0.001
+"[""Operations"", ""Program Support""]",1,0.001
+Customer Care,1,0.001
+Sales Systems Engineering,1,0.001
+Content,1,0.001
+Clinical Nutrition,1,0.001
+"Manufacturing, Production & Operations",1,0.001
+IT & Software,1,0.001
+HR,1,0.001
+Market & Development,1,0.001
+"[""Security Engineering""]",1,0.001
+Technology Division – Run‑The‑Bank,1,0.001
+Operations & Planning,1,0.001
+Alumni Relations,1,0.001
+"[""Marketing"", ""Public Relations""]",1,0.001
+People,1,0.001
+"[""Support Services""]",1,0.001
+"[""Operations"", ""Facilities"", ""Finance""]",1,0.001
+"[""Financial Analysis""]",1,0.001
+BIM Support,1,0.001
+business development,1,0.001
+Apprenticeship,1,0.001
+Communication,1,0.001
+Clinical Psychology,1,0.001
+"[""Business Development"", ""Sales""]",1,0.001
+Data Review,1,0.001
+Field Service Technician,1,0.001
+Loans,1,0.001
+Finance & Administration,1,0.001
+"[""Data Engineering"", ""Business Intelligence""]",1,0.001
+"[""Tax Consulting""]",1,0.001
+"[""Project management"", ""Change management""]",1,0.001
+"[""Accounting"", ""Finance""]",1,0.001
+Home Finance,1,0.001
+Lease Administration,1,0.001
+Financial Management,1,0.001
+"[""Operations"", ""Administrative"", ""Support""]",1,0.001
+Pre‑Sales,1,0.001
+Cartographie,1,0.001
+Client Enablement,1,0.001
+"[""Account Management"", ""Paid Media""]",1,0.001
+Surveying,1,0.001
+"[""Construction Management""]",1,0.001
+Data Architecture,1,0.001
+HR Management,1,0.001
+Payroll Operations,1,0.001
+Bar,1,0.001
+Design Engineering,1,0.001
+"[""Human Resources"", ""Learning & Development""]",1,0.001
+Support Engineering,1,0.001
+AI Engineering,1,0.001
+Manufacturing Process Planning,1,0.001
+Engineering & Facilities,1,0.001
+Security/Loss Prevention,1,0.001
+Branding,1,0.001
+Information Systems & Technology,1,0.001
+Clinician,1,0.001
+Recreation/Fitness Club,1,0.001
+"[""Product Management""]",1,0.001
+Search & Discovery,1,0.001
+"[""Safety"", ""Compliance""]",1,0.001
+Claims Processing,1,0.001
+"[""Clinical"", ""Therapy""]",1,0.001
+"[""Laboratory Operations"", ""Data Management""]",1,0.001
+Foreman,1,0.001
+Commercial Lending,1,0.001
+Plant Health Care,1,0.001
+Patrol and Incident Response,1,0.001
+"[""Creative Design"", ""Marketing Communications""]",1,0.001
+Field,1,0.001
+"[""Clinical Pharmacy""]",1,0.001
+Health Care,1,0.001
+Engineering and Facilities,1,0.001
+Academic,1,0.001
+Compounding,1,0.001
+Nursing & Health Care,1,0.001
+Hardware Design,1,0.001
+Repair & Restoration,1,0.001
+Sales Associate,1,0.001
+Fraud Operations,1,0.001
+Revenue Management,1,0.001
+Supportive Housing,1,0.001
+Pensions,1,0.001
+"[""Client Support""]",1,0.001
+Credit Analysis,1,0.001
+Cashiering,1,0.001
+Education Support,1,0.001
+Proposal Development,1,0.001
+"[""Design"", ""Construction"", ""Business Development""]",1,0.001
+Social work,1,0.001
+Credit Control,1,0.001
+Medical Director,1,0.001
+"[""Operations"", ""Project Management""]",1,0.001
+Analysis,1,0.001
+"[""Risk Management""]",1,0.001
+"[""Career Counseling"", ""Case Management""]",1,0.001
+"[""Clinical Content""]",1,0.001
+"[""Security"", ""Governance""]",1,0.001
+"[""Audit"", ""Compliance"", ""Analysis""]",1,0.001
+Economic Development,1,0.001
+Investor Relations,1,0.001
+Software Sales,1,0.001
+"[""Client Services"", ""Business Development""]",1,0.001
+PRODEV-SWENG,1,0.001
+Facilities Engineering,1,0.001
+PRODEV-PRODMG,1,0.001
+Dental Practice,1,0.001
+Digital Innovation,1,0.001
+Research & Analysis,1,0.001
+Promotions,1,0.001
+Guest Experience,1,0.001
+property management,1,0.001
+"[""Financial Advisory""]",1,0.001
+Maintenance Operations,1,0.001
+Translation,1,0.001
+Patient Advocacy,1,0.001
+"[""Patient Support"", ""Care Coordination""]",1,0.001
+"[""Service"", ""Guest Relations""]",1,0.001
+"[""Bartending""]",1,0.001
+Product Strategy & Execution,1,0.001
+Benefits & Leave Operations,1,0.001
+"[""Software Engineering""]",1,0.001
+"[""Recruiting"", ""HR Operations""]",1,0.001
+"[""Finance"", ""Treasury""]",1,0.001
+"[""IT Support"", ""Automation Engineering""]",1,0.001
+Implementation Engineering,1,0.001
+Documentation,1,0.001
+"[""Operations"", ""Logistics""]",1,0.001
+"[""Human Resources"", ""Organizational Development""]",1,0.001
+Claims Operations,1,0.001
+Technical Service,1,0.001
+QA,1,0.001
+NLP,1,0.001
+Environmental Health & Safety,1,0.001
+Event Staffing,1,0.001
+"[""Database Administration""]",1,0.001
+"[""Clinical"", ""Case management""]",1,0.001
+"[""Program Management"", ""Technology Integration""]",1,0.001
+"[""Software Development"", ""Platform Engineering""]",1,0.001
+"[""Engineering"", ""Product Development""]",1,0.001
+"[""Sales Development"", ""Lead Generation""]",1,0.001
+Appraisal,1,0.001
+Policy & Program Management,1,0.001
+Restaurant Staff,1,0.001
+Employee Relations,1,0.001
+Software Integration,1,0.001
+Behavior Analysis,1,0.001
+Planning & Design,1,0.001
+Flight Operations,1,0.001
+Integrated Marketing,1,0.001
+"[""Tax Advisory""]",1,0.001
+Maintenance & Construction,1,0.001
+Platform,1,0.001
+Teaching & Leadership,1,0.001
+"[""Product Management"", ""Strategy""]",1,0.001
+Engineering Documentation,1,0.001
+Site Director,1,0.001
+Grocery,1,0.001
+"[""Machine Learning""]",1,0.001
+Digital Transformation,1,0.001
+Water Resources,1,0.001
+Proposal Management,1,0.001
+"[""Clinical Services""]",1,0.001
+Product Marketing,1,0.001
+Community Engagement,1,0.001
+Network Design & Optimisation,1,0.001
+Software,1,0.001
+Driving,1,0.001
+Quality & Compliance,1,0.001
+Infrastructure & Security,1,0.001
+Front of House,1,0.001
+Systems Architecture,1,0.001
+IT Architecture,1,0.001
+Account Executive,1,0.001
+Instructor,1,0.001
+Licensing & Compliance,1,0.001
+Development and Testing,1,0.001
+"[""Legal Services"", ""Compliance""]",1,0.001
+"[""Security Operations"", ""Risk Management""]",1,0.001
+Leadership Development,1,0.001
+Vehicle Maintenance,1,0.001
+"[""Sales"", ""Strategieberatung""]",1,0.001
+"[""Front-of-house""]",1,0.001
+Claims Adjusting,1,0.001
+"[""Strategic Partnerships"", ""Business Development"", ""Consulting""]",1,0.001
+Dietary,1,0.001
+Product & Solutions,1,0.001
+Meat Merchandising,1,0.001
+Retail Store Operation,1,0.001
+"[""Teaching"", ""Instruction"", ""Assessment""]",1,0.001
+Carpentry,1,0.001
+Finance & Corporate Services,1,0.001
+Growth Marketing,1,0.001
+Sales & Partnerships,1,0.001
+Field Research,1,0.001
+"[""Maintenance"", ""Operations""]",1,0.001
+"[""Business Analysis"", ""Product Ownership""]",1,0.001
+Policy & Advocacy,1,0.001
+Recreation Services,1,0.001
+Biology,1,0.001
+Youth Support,1,0.001
+Public Services,1,0.001
+Mobile,1,0.001
+"[""Marketing"", ""Content Creation"", ""Community Management""]",1,0.001
+Licensing,1,0.001
+"[""Planning"", ""Economic Development""]",1,0.001
+Public Service,1,0.001
+Integration Engineering,1,0.001
+"[""Operations"", ""Data Analytics"", ""Strategic Planning""]",1,0.001
+IT/IS,1,0.001
+"[""Field Operations"", ""Data Collection""]",1,0.001
+Integration,1,0.001
+"[""IT Support"", ""Systems Administration""]",1,0.001
+Environmental,1,0.001
+Personal Banking,1,0.001
+"[""Sales"", ""Business development""]",1,0.001
+"[""Data Migration""]",1,0.001
+"[""CRM"", ""Software Development""]",1,0.001
+Executive Leadership,1,0.001
+"[""Engineering"", ""Security""]",1,0.001
+Insurance,1,0.001
+Valuation,1,0.001
+Spiritual Care,1,0.001
+Robotics,1,0.001
+"[""Regulatory"", ""Finance""]",1,0.001
+Retail banking,1,0.001
+Real Estate,1,0.001
+Trust Services,1,0.001
+Financial Advisory,1,0.001
+Consumer Lending,1,0.001
+Client Support,1,0.001
+Client Care,1,0.001
+Veterinary,1,0.001
+Credentialing,1,0.001
+Marketing & Insights,1,0.001
+Retail Business/Citi Business,1,0.001
+Diagnostic Radiology,1,0.001
+Janitorial,1,0.001
+Travel Operations,1,0.001
+Market Research,1,0.001
+"[""Support customers"", ""Coordinate service"", ""Improve workflow"", ""Train users"", ""Maintain communication"", ""Ensure data quality""]",1,0.001
+"Quality Management, Communication",1,0.001
+Policy Analysis,1,0.001
+Reward & Governance,1,0.001
+Customer Value Management,1,0.001
+IT & Systems Integration,1,0.001
+Fabrication and Finishing,1,0.001
+Digital Banking,1,0.001
+Treasury & Risk,1,0.001
+Respiratory Therapy,1,0.001
+Training & Quality Assurance,1,0.001
+Claims Adjuster,1,0.001
+"[""Marketing"", ""Community Outreach""]",1,0.001
+Technical Leadership,1,0.001
+Sales & Logistics,1,0.001
+Compliance & Risk,1,0.001
+Procurement Risk,1,0.001
+Infrastructure Support,1,0.001
+"[""Business Architecture""]",1,0.001
+"[""Administrative"", ""Project Management""]",1,0.001
+"[""Business Analysis""]",1,0.001
+Business Application Consulting,1,0.001
+"[""Audit & Assurance"", ""Risk Management""]",1,0.001
+Medical Writing,1,0.001
+Writing,1,0.001
+"[""Management"", ""Consulting""]",1,0.001
+Materials Development,1,0.001
+Design & Engineering,1,0.001
+AI Solutions,1,0.001
+"[""Commercial Management""]",1,0.001
+Technical Maintenance,1,0.001
+Fulfillment / Operations,1,0.001
+Chemical Engineering,1,0.001
+Agile Coaching,1,0.001
+Medicine,1,0.001
+Networking,1,0.001
+Access Management,1,0.001
+Surgical Technology,1,0.001
+Security Architecture,1,0.001
+Journalism,1,0.001
+Photography,1,0.001
+Enrollment,1,0.001
+Auditor,1,0.001
+Device Management,1,0.001
+Stocking,1,0.001
+Solutions Engineering,1,0.001
+"[""Customer Success"", ""Program Management"", ""Operations""]",1,0.001
+Creative & Content,1,0.001
+Finance Planning & Performance Management,1,0.001
+Planning & Analysis,1,0.001
+Operations & Accounting,1,0.001
+"[""Chaplain""]",1,0.001
+Teaching – Primary,1,0.001
+Pupil Support,1,0.001
+"[""Customer Service"", ""Financial Advisory""]",1,0.001
+Community Operations,1,0.001
+"[""Sales"", ""Customer Experience""]",1,0.001
+Sustainability & Community Development,1,0.001
+Curriculum and Teaching,1,0.001
+Data Science & Analysis,1,0.001
+Restaurants/Kitchens - Back of House,1,0.001
+Employee,1,0.001
+"[""Software Development""]",1,0.001
+"[""Technicians""]",1,0.001
+"[""Business Support & Administration""]",1,0.001
+Social Care,1,0.001
+Operational Manager,1,0.001
+Airside Experience,1,0.001
+Teaching and Instruction,1,0.001
+"[""Instruction"", ""Student Development""]",1,0.001
+Craftsman,1,0.001
+Inspector,1,0.001
+EXECUTIVE,1,0.001
+AUXILIAR,1,0.001
+People & Culture,1,0.001
+"Registration - Births, Deaths & Marriages",1,0.001
+Social Worker,1,0.001
+Care Assistant,1,0.001
+Logistics & Supply Chain Management,1,0.001
+Process / Methods / Industrialization,1,0.001
+Customer service,1,0.001
+Patient Affairs,1,0.001
+0,1,0.001
+Treasury Operations,1,0.001
+"[""Landscaping""]",1,0.001
+Sites,1,0.001
+"[""Operations"", ""Support""]",1,0.001
+"[""Coaching""]",1,0.001
+Bartending,1,0.001
+Electronics,1,0.001
+Order Administration,1,0.001
+"[""Project Management"", ""Engineering""]",1,0.001
+"[""Tax"", ""Advisory""]",1,0.001
+Integrated Production/Studio,1,0.001
+"[""Instructional Support""]",1,0.001
+Sales/Business Development,1,0.001
+Drivers,1,0.001
+"[""Operations"", ""Policy Administration""]",1,0.001
+Production Operations,1,0.001
+"[""Special education"", ""Behavior management""]",1,0.001
+Retail Performance & Excellence,1,0.001
+"[""Driver""]",1,0.001
+Respiratory Care,1,0.001
+"[""Nursing Support""]",1,0.001
+Nursing Support,1,0.001
+Systems Config & Programming,1,0.001
+Front‑desk,1,0.001
+Direct Support Professional,1,0.001
+Shared Services,1,0.001
+Lineworker,1,0.001
+"[""Safety and Training""]",1,0.001
+Support Technician,1,0.001
+Skilled,1,0.001
+"[""Construction Management"", ""Project Management""]",1,0.001
+"[""Project supervision""]",1,0.001
+"[""Clinical Diagnostics""]",1,0.001
+"[""Human Resources"", ""Risk Management""]",1,0.001
+Medical Records,1,0.001
+Business Management,1,0.001
+Biomedical Equipment,1,0.001
+Transmission,1,0.001
+Electrical Distribution,1,0.001
+Clinical Support - Physician Enterprise,1,0.001
+Government Relations,1,0.001
+IT & Workplace Experience,1,0.001
+Production Technicians,1,0.001
+Quality Inspection,1,0.001
+"[""Engineering"", ""Compliance""]",1,0.001
+Reporting,1,0.001
+Attorney,1,0.001
+Bid Management,1,0.001
+"[""patrol""]",1,0.001
+Pharmacy Technician,1,0.001
+LPN-MA-CNA,1,0.001
+Software Architecture,1,0.001
+"[""Backend Engineering""]",1,0.001
+General Support,1,0.001
+Revenue Cycle & Scheduling,1,0.001
+"[""Customer Success"", ""Patient Support"", ""Care Coordination""]",1,0.001
+Closing and Escrow,1,0.001
+Brokerage Sales,1,0.001

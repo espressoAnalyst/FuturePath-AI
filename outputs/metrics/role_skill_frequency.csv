@@ -1,0 +1,1438 @@
+target_role,skill,posting_count,percentage_of_postings_with_skills
+Data Analyst,powerbi,9,6.67
+Data Analyst,gcp,1,0.74
+Data Analyst,vba,3,2.22
+Data Analyst,dataanalysis,1,0.74
+Data Analyst,python,58,42.96
+Data Analyst,sql,103,76.3
+Data Analyst,microstrategy,2,1.48
+Data Analyst,etl,18,13.33
+Data Analyst,business analysis,1,0.74
+Data Analyst,power bi,43,31.85
+Data Analyst,data visualization,49,36.3
+Data Analyst,reporting,20,14.81
+Data Analyst,excel,33,24.44
+Data Analyst,sap analytics cloud,1,0.74
+Data Analyst,power query,3,2.22
+Data Analyst,tableau,40,29.63
+Data Analyst,data modeling,32,23.7
+Data Analyst,ssis,1,0.74
+Data Analyst,ssrs,1,0.74
+Data Analyst,healthcare analytics,2,1.48
+Data Analyst,data analysis,38,28.15
+Data Analyst,logistics,1,0.74
+Data Analyst,stakeholder communication,14,10.37
+Data Analyst,presentation,1,0.74
+Data Analyst,bilingual german,1,0.74
+Data Analyst,wms,2,1.48
+Data Analyst,google suite,1,0.74
+Data Analyst,english communication,1,0.74
+Data Analyst,procurement analytics,2,1.48
+Data Analyst,cost control,1,0.74
+Data Analyst,data reporting,1,0.74
+Data Analyst,gis,1,0.74
+Data Analyst,benefit‑cost analysis,1,0.74
+Data Analyst,spatial analysis,1,0.74
+Data Analyst,grant writing,1,0.74
+Data Analyst,traffic modeling,1,0.74
+Data Analyst,predictive modeling,5,3.7
+Data Analyst,mentorship,2,1.48
+Data Analyst,data integration,4,2.96
+Data Analyst,snowflake cortex,1,0.74
+Data Analyst,dashboard development,8,5.93
+Data Analyst,snowflake,15,11.11
+Data Analyst,visualization,2,1.48
+Data Analyst,data governance,18,13.33
+Data Analyst,problem solving,4,2.96
+Data Analyst,ml model monitoring,1,0.74
+Data Analyst,regex,1,0.74
+Data Analyst,communication,12,8.89
+Data Analyst,data pipelines,3,2.22
+Data Analyst,data quality,8,5.93
+Data Analyst,bi tools,5,3.7
+Data Analyst,process automation,4,2.96
+Data Analyst,statistical analysis,9,6.67
+Data Analyst,data cleaning,2,1.48
+Data Analyst,agile methodology,2,1.48
+Data Analyst,trend analysis,2,1.48
+Data Analyst,data analytics,4,2.96
+Data Analyst,data management,1,0.74
+Data Analyst,erp,4,2.96
+Data Analyst,sap,5,3.7
+Data Analyst,automation,5,3.7
+Data Analyst,statistical modeling,5,3.7
+Data Analyst,stakeholder management,4,2.96
+Data Analyst,looker,7,5.19
+Data Analyst,a/b testing,8,5.93
+Data Analyst,dbt,9,6.67
+Data Analyst,elt pipelines,1,0.74
+Data Analyst,git,2,1.48
+Data Analyst,fraud detection,1,0.74
+Data Analyst,llm integration,1,0.74
+Data Analyst,etl pipelines,1,0.74
+Data Analyst,process improvement,7,5.19
+Data Analyst,ai basics,1,0.74
+Data Analyst,technical writing,1,0.74
+Data Analyst,r,14,10.37
+Data Analyst,dashboard,4,2.96
+Data Analyst,statistics,2,1.48
+Data Analyst,azure,4,2.96
+Data Analyst,predictive analytics,2,1.48
+Data Analyst,dax,5,3.7
+Data Analyst,project management,11,8.15
+Data Analyst,change control,1,0.74
+Data Analyst,risk management,3,2.22
+Data Analyst,regulatory compliance,2,1.48
+Data Analyst,veeva vault,1,0.74
+Data Analyst,cgmp,1,0.74
+Data Analyst,financial analysis,5,3.7
+Data Analyst,training delivery,1,0.74
+Data Analyst,survey design,2,1.48
+Data Analyst,quality control,1,0.74
+Data Analyst,statistical reporting,1,0.74
+Data Analyst,database management,4,2.96
+Data Analyst,ehr systems,1,0.74
+Data Analyst,marketing analytics,6,4.44
+Data Analyst,growth metrics,1,0.74
+Data Analyst,attribution,3,2.22
+Data Analyst,experimentation,3,2.22
+Data Analyst,oracle,2,1.48
+Data Analyst,netsuite,2,1.48
+Data Analyst,supply chain analytics,4,2.96
+Data Analyst,insurance reporting,1,0.74
+Data Analyst,yardi,1,0.74
+Data Analyst,stakeholder collaboration,1,0.74
+Data Analyst,operational research,1,0.74
+Data Analyst,cyber risk,1,0.74
+Data Analyst,ai-assisted development,1,0.74
+Data Analyst,mmm,1,0.74
+Data Analyst,forecasting,4,2.96
+Data Analyst,smartsheet administration,1,0.74
+Data Analyst,workflow automation,2,1.48
+Data Analyst,qad,1,0.74
+Data Analyst,manufacturing ops,1,0.74
+Data Analyst,variance analysis,1,0.74
+Data Analyst,ferpa compliance,1,0.74
+Data Analyst,education data systems,1,0.74
+Data Analyst,bilingual spanish,1,0.74
+Data Analyst,reporting automation,1,0.74
+Data Analyst,powerpoint,5,3.7
+Data Analyst,github,2,1.48
+Data Analyst,databricks,4,2.96
+Data Analyst,aws,2,1.48
+Data Analyst,apache airflow,1,0.74
+Data Analyst,google analytics,1,0.74
+Data Analyst,dashboard automation,1,0.74
+Data Analyst,executive reporting,1,0.74
+Data Analyst,advanced excel,1,0.74
+Data Analyst,dashboard design,4,2.96
+Data Analyst,o365,1,0.74
+Data Analyst,cross‑functional collaboration,3,2.22
+Data Analyst,transportation planning,1,0.74
+Data Analyst,supply chain,3,2.22
+Data Analyst,microsoft office,2,1.48
+Data Analyst,risk assessment,1,0.74
+Data Analyst,p&id interpretation,1,0.74
+Data Analyst,data organization,1,0.74
+Data Analyst,reliability analysis,1,0.74
+Data Analyst,customer communication,1,0.74
+Data Analyst,technical documentation,1,0.74
+Data Analyst,microsoft fabric,1,0.74
+Data Analyst,real estate analytics,1,0.74
+Data Analyst,sharepoint,2,1.48
+Data Analyst,sigma,1,0.74
+Data Analyst,redshift,2,1.48
+Data Analyst,agile,4,2.96
+Data Analyst,data profiling,2,1.48
+Data Analyst,public health,1,0.74
+Data Analyst,sas,3,2.22
+Data Analyst,data mining,2,1.48
+Data Analyst,api integration,1,0.74
+Data Analyst,client communication,1,0.74
+Data Analyst,report generation,1,0.74
+Data Analyst,organizational skills,1,0.74
+Data Analyst,office software,1,0.74
+Data Analyst,detail oriented,1,0.74
+Data Analyst,organization,2,1.48
+Data Analyst,word,1,0.74
+Data Analyst,data entry,4,2.96
+Data Analyst,legal document review,2,1.48
+Data Analyst,microsoft powerpoint,1,0.74
+Data Analyst,microsoft excel,1,0.74
+Data Analyst,microsoft word,1,0.74
+Data Analyst,stata,1,0.74
+Data Analyst,policy analysis,1,0.74
+Data Analyst,user behavior analysis,1,0.74
+Data Analyst,pendo,1,0.74
+Data Analyst,cross‑functional communication,1,0.74
+Data Analyst,ai-enabled analytics,1,0.74
+Data Analyst,qualtrics,1,0.74
+Data Analyst,dashboarding,8,5.93
+Data Analyst,optimization,1,0.74
+Data Analyst,causal inference,2,1.48
+Data Analyst,decision analytics,1,0.74
+Data Analyst,value‑based care,1,0.74
+Data Analyst,healthcare data,1,0.74
+Data Analyst,powerapps,1,0.74
+Data Analyst,power automate,1,0.74
+Data Analyst,data cataloging,1,0.74
+Data Analyst,reconciliation,1,0.74
+Data Analyst,solar operations,1,0.74
+Data Analyst,predictive maintenance,1,0.74
+Data Analyst,scada,1,0.74
+Data Analyst,energy storage,1,0.74
+Data Analyst,genai,2,1.48
+Data Analyst,cloud,1,0.74
+Data Analyst,java,3,2.22
+Data Analyst,mentoring,3,2.22
+Data Analyst,cloud platforms,3,2.22
+Data Analyst,data warehousing,4,2.96
+Data Analyst,machine learning,2,1.48
+Data Analyst,air force domain,1,0.74
+Data Analyst,agile methodologies,1,0.74
+Data Analyst,ai integration,2,1.48
+Data Analyst,crm,1,0.74
+Data Analyst,billing platforms,1,0.74
+Data Analyst,database,1,0.74
+Data Analyst,digital analytics,1,0.74
+Data Analyst,ga4,2,1.48
+Data Analyst,excel macros,2,1.48
+Data Analyst,sap ecc,1,0.74
+Data Analyst,plm,2,1.48
+Data Analyst,powerquery,1,0.74
+Data Analyst,textual data analysis,1,0.74
+Data Analyst,root cause analysis,2,1.48
+Data Analyst,data validation,3,2.22
+Data Analyst,epic,1,0.74
+Data Analyst,clinical terminologies,1,0.74
+Data Analyst,data wrangling,2,1.48
+Data Analyst,bi,3,2.22
+Data Analyst,incrementality,1,0.74
+Data Analyst,test design,1,0.74
+Data Analyst,dashboards,2,1.48
+Data Analyst,project coordination,2,1.48
+Data Analyst,emr,1,0.74
+Data Analyst,t‑sql,1,0.74
+Data Analyst,azure synapse,2,1.48
+Data Analyst,plm/erp,1,0.74
+Data Analyst,azure data factory,2,1.48
+Data Analyst,data cleansing,3,2.22
+Data Analyst,bom,1,0.74
+Data Analyst,sas eg,1,0.74
+Data Analyst,financial modeling,2,1.48
+Data Analyst,business insight,1,0.74
+Data Analyst,ai,1,0.74
+Data Analyst,business intelligence,2,1.48
+Data Analyst,teradata,1,0.74
+Data Analyst,qc protocols,1,0.74
+Data Analyst,lims,1,0.74
+Data Analyst,invoice management,1,0.74
+Data Analyst,hadoop,1,0.74
+Data Analyst,analytics,3,2.22
+Data Analyst,financial reporting,1,0.74
+Data Analyst,english,1,0.74
+Data Analyst,ms office,1,0.74
+Data Analyst,cross-functional,1,0.74
+Data Analyst,phi,1,0.74
+Data Analyst,healthcare,1,0.74
+Data Analyst,hipaa,1,0.74
+Data Analyst,pmo management,1,0.74
+Data Analyst,llm pipelines,1,0.74
+Data Analyst,airflow,2,1.48
+Data Analyst,ai tooling,1,0.74
+Data Analyst,metrics,1,0.74
+Data Analyst,ai tools,3,2.22
+Data Analyst,process documentation,1,0.74
+Data Analyst,risk analysis,1,0.74
+Data Analyst,audit support,1,0.74
+Data Analyst,crm platforms,1,0.74
+Data Analyst,business logic,1,0.74
+Data Analyst,metabase,2,1.48
+Data Analyst,data architecture,1,0.74
+Data Analyst,cohort analysis,1,0.74
+Data Analyst,lookup formulas,1,0.74
+Data Analyst,data reconciliation,2,1.48
+Data Analyst,time management,2,1.48
+Data Analyst,learning,1,0.74
+Data Analyst,financial metrics,1,0.74
+Data Analyst,bigquery,3,2.22
+Data Analyst,data engineering,4,2.96
+Data Analyst,cx analytics,1,0.74
+Data Analyst,edi mapping,1,0.74
+Data Analyst,spark,3,2.22
+Data Analyst,stakeholder engagement,1,0.74
+Data Analyst,abacum,1,0.74
+Data Analyst,ai automation,1,0.74
+Data Analyst,presales analytics,1,0.74
+Data Analyst,healthcare claims,1,0.74
+Data Analyst,analytical thinking,1,0.74
+Data Analyst,customer focus,1,0.74
+Data Analyst,mfl technology,1,0.74
+Data Analyst,team leadership,2,1.48
+Data Analyst,team collaboration,1,0.74
+Data Analyst,research,1,0.74
+Data Analyst,financial markets,1,0.74
+Data Analyst,attention to detail,1,0.74
+Data Analyst,ehr integration,1,0.74
+Data Analyst,hipaa compliance,1,0.74
+Data Analyst,critical thinking,1,0.74
+Data Analyst,grant reporting,1,0.74
+Data Analyst,data product architecture,1,0.74
+Data Analyst,dimensional modeling,1,0.74
+Data Analyst,ai coding assistants,1,0.74
+Data Analyst,cerner ccl,1,0.74
+Data Analyst,access,1,0.74
+Data Analyst,petrel,1,0.74
+Data Analyst,arcgis,1,0.74
+Data Analyst,data maintenance,1,0.74
+Data Analyst,cross-functional collaboration,1,0.74
+Data Analyst,alteryx,1,0.74
+Data Analyst,compliance,1,0.74
+Data Analyst,mrp,1,0.74
+Data Analyst,lean,2,1.48
+Data Analyst,jira,1,0.74
+Data Analyst,pii compliance,1,0.74
+Data Analyst,xml,1,0.74
+Data Analyst,unix/linux,1,0.74
+Data Analyst,data modelling,1,0.74
+Data Analyst,api development,1,0.74
+Data Analyst,data storytelling,1,0.74
+Data Analyst,generative ai,1,0.74
+Data Analyst,pyspark,1,0.74
+Data Analyst,azure databricks,1,0.74
+Data Analyst,html/css,1,0.74
+Data Analyst,gtm,1,0.74
+Data Analyst,time series,1,0.74
+Business Analyst,business analysis,93,56.02
+Business Analyst,requirements gathering,36,21.69
+Business Analyst,agile methodologies,9,5.42
+Business Analyst,process mapping,33,19.88
+Business Analyst,ai tools,6,3.61
+Business Analyst,sql,44,26.51
+Business Analyst,power bi,19,11.45
+Business Analyst,dashboard development,1,0.6
+Business Analyst,rest apis,2,1.2
+Business Analyst,risk identification,1,0.6
+Business Analyst,agile tools,1,0.6
+Business Analyst,stakeholder communication,20,12.05
+Business Analyst,data mapping,3,1.81
+Business Analyst,user stories,2,1.2
+Business Analyst,technical documentation,3,1.81
+Business Analyst,agile,35,21.08
+Business Analyst,process improvement,27,16.27
+Business Analyst,stakeholder management,63,37.95
+Business Analyst,testing,13,7.83
+Business Analyst,javascript,1,0.6
+Business Analyst,documentation,28,16.87
+Business Analyst,product operations,1,0.6
+Business Analyst,digital marketing,1,0.6
+Business Analyst,tableau,12,7.23
+Business Analyst,data analysis,34,20.48
+Business Analyst,reporting,11,6.63
+Business Analyst,financial modeling,5,3.01
+Business Analyst,reconciliation,1,0.6
+Business Analyst,powerbi,3,1.81
+Business Analyst,data modeling,11,6.63
+Business Analyst,python,13,7.83
+Business Analyst,analytics,3,1.81
+Business Analyst,looker,1,0.6
+Business Analyst,system interface,1,0.6
+Business Analyst,financial services,3,1.81
+Business Analyst,data modelling,1,0.6
+Business Analyst,requirements workshops,1,0.6
+Business Analyst,functional specification,4,2.41
+Business Analyst,swift messaging,1,0.6
+Business Analyst,sdd,1,0.6
+Business Analyst,payments processing,1,0.6
+Business Analyst,sct,1,0.6
+Business Analyst,test management,2,1.2
+Business Analyst,sepa,1,0.6
+Business Analyst,stakeholder coordination,2,1.2
+Business Analyst,instant payments,1,0.6
+Business Analyst,agile methodology,3,1.81
+Business Analyst,change management,13,7.83
+Business Analyst,capital markets,1,0.6
+Business Analyst,p&l analysis,1,0.6
+Business Analyst,pricing analytics,1,0.6
+Business Analyst,risk metrics,1,0.6
+Business Analyst,pricing strategy,1,0.6
+Business Analyst,revenue modeling,1,0.6
+Business Analyst,kpi reporting,1,0.6
+Business Analyst,ai opportunity identification,1,0.6
+Business Analyst,roi assessment,2,1.2
+Business Analyst,executive communication,2,1.2
+Business Analyst,data analytics,8,4.82
+Business Analyst,rpa,2,1.2
+Business Analyst,stakeholder workshops,1,0.6
+Business Analyst,epic,1,0.6
+Business Analyst,liaison,1,0.6
+Business Analyst,training,5,3.01
+Business Analyst,data conversion,1,0.6
+Business Analyst,healthcare it,1,0.6
+Business Analyst,workflow analysis,1,0.6
+Business Analyst,safe methodology,1,0.6
+Business Analyst,jira,21,12.65
+Business Analyst,product ownership,1,0.6
+Business Analyst,klaxoon,1,0.6
+Business Analyst,teams,1,0.6
+Business Analyst,testing & validation,1,0.6
+Business Analyst,agile coaching,2,1.2
+Business Analyst,project management,20,12.05
+Business Analyst,ms office,1,0.6
+Business Analyst,root‑cause analysis,1,0.6
+Business Analyst,payment policy,1,0.6
+Business Analyst,claims processing,1,0.6
+Business Analyst,vendor management,3,1.81
+Business Analyst,qa oversight,1,0.6
+Business Analyst,agile scrum,4,2.41
+Business Analyst,team leadership,1,0.6
+Business Analyst,excel,23,13.86
+Business Analyst,google bigquery,1,0.6
+Business Analyst,alteryx,3,1.81
+Business Analyst,sap,6,3.61
+Business Analyst,cost analysis,2,1.2
+Business Analyst,stakeholder collaboration,2,1.2
+Business Analyst,problem solving,12,7.23
+Business Analyst,kpi definition,1,0.6
+Business Analyst,benchmarking,1,0.6
+Business Analyst,automotive data,1,0.6
+Business Analyst,lwc,1,0.6
+Business Analyst,salesforce,8,4.82
+Business Analyst,integration,1,0.6
+Business Analyst,sdlc,2,1.2
+Business Analyst,scrum,2,1.2
+Business Analyst,ux collaboration,1,0.6
+Business Analyst,demo facilitation,1,0.6
+Business Analyst,cross-functional collaboration,1,0.6
+Business Analyst,u.s. government clearance,1,0.6
+Business Analyst,uat,8,4.82
+Business Analyst,production support,3,1.81
+Business Analyst,incident management,2,1.2
+Business Analyst,business requirements,1,0.6
+Business Analyst,forecasting,2,1.2
+Business Analyst,bi reporting,1,0.6
+Business Analyst,marketplace analytics,1,0.6
+Business Analyst,requirements elicitation,4,2.41
+Business Analyst,uat support,2,1.2
+Business Analyst,openlink endur,8,4.82
+Business Analyst,process modeling,9,5.42
+Business Analyst,communication,15,9.04
+Business Analyst,process design,8,4.82
+Business Analyst,mentoring,3,1.81
+Business Analyst,collaboration,1,0.6
+Business Analyst,analytical thinking,4,2.41
+Business Analyst,technical specification,1,0.6
+Business Analyst,requirements documentation,3,1.81
+Business Analyst,decision making,1,0.6
+Business Analyst,analytical skills,2,1.2
+Business Analyst,workflow design,2,1.2
+Business Analyst,chromatography data systems,1,0.6
+Business Analyst,agile documentation,1,0.6
+Business Analyst,data visualization,9,5.42
+Business Analyst,regulatory compliance,6,3.61
+Business Analyst,lims,1,0.6
+Business Analyst,quantitative analysis,1,0.6
+Business Analyst,crm analytics,1,0.6
+Business Analyst,a/b testing,2,1.2
+Business Analyst,predictive modeling,1,0.6
+Business Analyst,stakeholder facilitation,2,1.2
+Business Analyst,transformation,1,0.6
+Business Analyst,version control,1,0.6
+Business Analyst,metadata management,1,0.6
+Business Analyst,data governance,7,4.22
+Business Analyst,stakeholder engagement,16,9.64
+Business Analyst,healthcare data,1,0.6
+Business Analyst,data documentation,1,0.6
+Business Analyst,workshop facilitation,7,4.22
+Business Analyst,automation,6,3.61
+Business Analyst,brd,1,0.6
+Business Analyst,insurance systems,1,0.6
+Business Analyst,testing coordination,1,0.6
+Business Analyst,wms,1,0.6
+Business Analyst,user training,2,1.2
+Business Analyst,supply chain integration,1,0.6
+Business Analyst,system troubleshooting,1,0.6
+Business Analyst,testing and validation,1,0.6
+Business Analyst,sharepoint,3,1.81
+Business Analyst,portfolio management,1,0.6
+Business Analyst,scheduling,1,0.6
+Business Analyst,powerpoint,4,2.41
+Business Analyst,legacy modernization,1,0.6
+Business Analyst,data integration,2,1.2
+Business Analyst,requirements engineering,4,2.41
+Business Analyst,healthcare domain,1,0.6
+Business Analyst,agile/scrum methodology,1,0.6
+Business Analyst,cost/benefit analysis,1,0.6
+Business Analyst,azure devops,4,2.41
+Business Analyst,business process analysis,1,0.6
+Business Analyst,use case modeling,1,0.6
+Business Analyst,testing & debugging,1,0.6
+Business Analyst,etl mapping,1,0.6
+Business Analyst,data quality kpis,1,0.6
+Business Analyst,financial datasets,1,0.6
+Business Analyst,dashboarding,3,1.81
+Business Analyst,agentic tooling,1,0.6
+Business Analyst,it application development,1,0.6
+Business Analyst,federal consulting,1,0.6
+Business Analyst,strategic planning,1,0.6
+Business Analyst,data auditing,1,0.6
+Business Analyst,risk management,2,1.2
+Business Analyst,alm,1,0.6
+Business Analyst,mbs,1,0.6
+Business Analyst,analytical problem-solving,1,0.6
+Business Analyst,microsoft excel,2,1.2
+Business Analyst,word,1,0.6
+Business Analyst,project coordination,5,3.01
+Business Analyst,visualization,1,0.6
+Business Analyst,process automation,2,1.2
+Business Analyst,confluence,8,4.82
+Business Analyst,off‑hours support,1,0.6
+Business Analyst,industry research,1,0.6
+Business Analyst,risk analysis,1,0.6
+Business Analyst,security enhancements,1,0.6
+Business Analyst,etl design,1,0.6
+Business Analyst,sql server,1,0.6
+Business Analyst,azure data factory,1,0.6
+Business Analyst,mdm,3,1.81
+Business Analyst,trading systems,1,0.6
+Business Analyst,endur,1,0.6
+Business Analyst,deal capture,1,0.6
+Business Analyst,settlements accounting,1,0.6
+Business Analyst,cmotion,1,0.6
+Business Analyst,automated testing,1,0.6
+Business Analyst,release coordination,1,0.6
+Business Analyst,provar,1,0.6
+Business Analyst,salesforce qa,1,0.6
+Business Analyst,integration testing,1,0.6
+Business Analyst,user acceptance testing,1,0.6
+Business Analyst,crm platforms,1,0.6
+Business Analyst,test automation,1,0.6
+Business Analyst,uml modeling,1,0.6
+Business Analyst,power automate,5,3.01
+Business Analyst,power apps,2,1.2
+Business Analyst,waterfall,2,1.2
+Business Analyst,sustainability reporting,1,0.6
+Business Analyst,ai tooling,1,0.6
+Business Analyst,agile project management,1,0.6
+Business Analyst,finance systems,2,1.2
+Business Analyst,azure,1,0.6
+Business Analyst,snowflake,3,1.81
+Business Analyst,databricks,1,0.6
+Business Analyst,agile delivery,2,1.2
+Business Analyst,system performance,1,0.6
+Business Analyst,telecoms,1,0.6
+Business Analyst,technical design,1,0.6
+Business Analyst,cloud platforms,1,0.6
+Business Analyst,cloud aws,1,0.6
+Business Analyst,document management,1,0.6
+Business Analyst,help desk,1,0.6
+Business Analyst,workday finance,1,0.6
+Business Analyst,financial systems,1,0.6
+Business Analyst,security administration,1,0.6
+Business Analyst,system integration,3,1.81
+Business Analyst,insurance domain,1,0.6
+Business Analyst,nosql,1,0.6
+Business Analyst,java,1,0.6
+Business Analyst,visual basic,1,0.6
+Business Analyst,uml,1,0.6
+Business Analyst,systems design,1,0.6
+Business Analyst,veeva crm,1,0.6
+Business Analyst,informatica,1,0.6
+Business Analyst,sop documentation,1,0.6
+Business Analyst,debugging,1,0.6
+Business Analyst,code review,1,0.6
+Business Analyst,software development,1,0.6
+Business Analyst,requirements analysis,4,2.41
+Business Analyst,technology evaluation,1,0.6
+Business Analyst,team collaboration,1,0.6
+Business Analyst,functional analysis,1,0.6
+Business Analyst,presentation skills,1,0.6
+Business Analyst,vendor coordination,1,0.6
+Business Analyst,insurance broking,1,0.6
+Business Analyst,ai,3,1.81
+Business Analyst,treasury systems,1,0.6
+Business Analyst,regulatory,1,0.6
+Business Analyst,requirements,1,0.6
+Business Analyst,stakeholder,1,0.6
+Business Analyst,business insight,1,0.6
+Business Analyst,kpis,1,0.6
+Business Analyst,excel advanced,1,0.6
+Business Analyst,gap analysis,2,1.2
+Business Analyst,data stewardship,1,0.6
+Business Analyst,agile collaboration,1,0.6
+Business Analyst,root cause analysis,3,1.81
+Business Analyst,risk assessment,3,1.81
+Business Analyst,training development,2,1.2
+Business Analyst,bpmn,2,1.2
+Business Analyst,privileged access,1,0.6
+Business Analyst,idam,1,0.6
+Business Analyst,analytics delivery,1,0.6
+Business Analyst,sap analytics,1,0.6
+Business Analyst,data validation,1,0.6
+Business Analyst,atlassian,1,0.6
+Business Analyst,denial management,1,0.6
+Business Analyst,coding,1,0.6
+Business Analyst,medicare audits,1,0.6
+Business Analyst,revenue cycle,1,0.6
+Business Analyst,billing,1,0.6
+Business Analyst,compliance,2,1.2
+Business Analyst,itsm,1,0.6
+Business Analyst,device lifecycle,1,0.6
+Business Analyst,collaboration tools,1,0.6
+Business Analyst,data setup,1,0.6
+Business Analyst,uat planning,1,0.6
+Business Analyst,client communication,1,0.6
+Business Analyst,process modelling,2,1.2
+Business Analyst,product management,2,1.2
+Business Analyst,api integration,2,1.2
+Business Analyst,cloud architecture,1,0.6
+Business Analyst,data quality,2,1.2
+Business Analyst,regulatory reporting,2,1.2
+Business Analyst,system implementation,1,0.6
+Business Analyst,bilingual,1,0.6
+Business Analyst,stibo,1,0.6
+Business Analyst,talend,1,0.6
+Business Analyst,semarchy,1,0.6
+Business Analyst,wireframing,2,1.2
+Business Analyst,client training,1,0.6
+Business Analyst,system configuration,1,0.6
+Business Analyst,testing validation,1,0.6
+Business Analyst,user story writing,2,1.2
+Business Analyst,sprint tracking,1,0.6
+Business Analyst,team mentoring,1,0.6
+Business Analyst,agile facilitation,1,0.6
+Business Analyst,defect management,1,0.6
+Business Analyst,test planning,3,1.81
+Business Analyst,fraud management,1,0.6
+Business Analyst,api design,1,0.6
+Business Analyst,payment integration,1,0.6
+Business Analyst,core banking,1,0.6
+Business Analyst,data management,1,0.6
+Business Analyst,finance,1,0.6
+Business Analyst,microsoft,1,0.6
+Business Analyst,facilitation,2,1.2
+Business Analyst,microsoft technologies,1,0.6
+Business Analyst,xray,1,0.6
+Business Analyst,planning,1,0.6
+Business Analyst,capacity management,1,0.6
+Business Analyst,planit,1,0.6
+Business Analyst,demand modeling,1,0.6
+Business Analyst,uat testing,1,0.6
+Business Analyst,process analysis,1,0.6
+Business Analyst,lucid,1,0.6
+Business Analyst,miro,2,1.2
+Business Analyst,wms configuration,1,0.6
+Business Analyst,process documentation,3,1.81
+Business Analyst,uat coordination,1,0.6
+Business Analyst,aem,1,0.6
+Business Analyst,solution design,2,1.2
+Business Analyst,digital platforms,1,0.6
+Business Analyst,microsoft dynamics,1,0.6
+Business Analyst,crm solutions,1,0.6
+Business Analyst,hybrid collaboration,1,0.6
+Business Analyst,crm configuration,1,0.6
+Business Analyst,testing management,1,0.6
+Business Analyst,agile ceremonies,1,0.6
+Business Analyst,continuous delivery,1,0.6
+Business Analyst,roadmap planning,1,0.6
+Business Analyst,capability mapping,1,0.6
+Business Analyst,event storming,1,0.6
+Business Analyst,mapping design,1,0.6
+Business Analyst,test case development,1,0.6
+Business Analyst,data profiling,1,0.6
+Business Analyst,togaf,1,0.6
+Business Analyst,functional specs,1,0.6
+Business Analyst,requirement analysis,1,0.6
+Business Analyst,html editing,1,0.6
+Business Analyst,b2b integration,1,0.6
+Business Analyst,microsoft stack,1,0.6
+Business Analyst,visio,1,0.6
+Business Analyst,brd documentation,1,0.6
+Business Analyst,arabic language,1,0.6
+Business Analyst,sap gui scripting,1,0.6
+Business Analyst,mro processes,1,0.6
+Business Analyst,sap s/4,1,0.6
+Business Analyst,sap ecc,1,0.6
+Business Analyst,payroll systems,1,0.6
+Business Analyst,adp ev5,1,0.6
+Business Analyst,training delivery,2,1.2
+Business Analyst,requirements translation,1,0.6
+Business Analyst,requirement gathering,1,0.6
+Business Analyst,acceptance criteria,1,0.6
+Business Analyst,functional testing,1,0.6
+Business Analyst,agile/scrum,1,0.6
+Business Analyst,backlog management,1,0.6
+Business Analyst,user research,1,0.6
+Business Analyst,ux design,1,0.6
+Business Analyst,product strategy,2,1.2
+Business Analyst,itil,1,0.6
+Business Analyst,microsoft office,5,3.01
+Business Analyst,erp,3,1.81
+Business Analyst,process reengineering,1,0.6
+Business Analyst,technical translation,1,0.6
+Business Analyst,sdlc support,1,0.6
+Business Analyst,kanban,1,0.6
+Business Analyst,mobile banking,1,0.6
+Business Analyst,monétique,1,0.6
+Business Analyst,product owner,1,0.6
+Business Analyst,sap sd,1,0.6
+Business Analyst,edi,1,0.6
+Business Analyst,primavera p6,1,0.6
+Business Analyst,pmis,1,0.6
+Business Analyst,trimble unity construct,1,0.6
+Business Analyst,heavybid,1,0.6
+Business Analyst,pharmaceutical sciences,1,0.6
+Business Analyst,requirements management,1,0.6
+Business Analyst,uat execution,1,0.6
+Business Analyst,budgeting,2,1.2
+Business Analyst,data accuracy,1,0.6
+Business Analyst,variance analysis,1,0.6
+Business Analyst,financial analysis,1,0.6
+Business Analyst,trade services,1,0.6
+Business Analyst,ach,1,0.6
+Business Analyst,funds transfer,1,0.6
+Business Analyst,global payments,1,0.6
+Business Analyst,foreign exchange,1,0.6
+Business Analyst,business case development,1,0.6
+Business Analyst,servicenow,2,1.2
+Business Analyst,microsoft visio,1,0.6
+Business Analyst,business intelligence,1,0.6
+Business Analyst,itar compliance,1,0.6
+Business Analyst,digital solutions,1,0.6
+Business Analyst,cloud,1,0.6
+Business Analyst,solutions architecture,1,0.6
+Business Analyst,ea,1,0.6
+Business Analyst,dodaf,1,0.6
+Business Analyst,governance,2,1.2
+Business Analyst,impact assessment,1,0.6
+Business Analyst,master data management,1,0.6
+Business Analyst,etl,3,1.81
+Business Analyst,r,1,0.6
+Business Analyst,sas,1,0.6
+Business Analyst,lean six sigma,2,1.2
+Business Analyst,data extraction,1,0.6
+Business Analyst,logistics,2,1.2
+Business Analyst,troubleshooting,1,0.6
+Business Analyst,microsoft365,1,0.6
+Business Analyst,rest,1,0.6
+Business Analyst,cad,1,0.6
+Business Analyst,plm,1,0.6
+Business Analyst,json,1,0.6
+Business Analyst,restful,1,0.6
+Business Analyst,soap,1,0.6
+Business Analyst,xml,1,0.6
+Business Analyst,bi,1,0.6
+Business Analyst,restful apis,1,0.6
+Business Analyst,integration design,1,0.6
+Business Analyst,quality assurance,1,0.6
+Business Analyst,data loader,1,0.6
+Business Analyst,api,1,0.6
+Business Analyst,private equity,1,0.6
+Business Analyst,service cloud,2,1.2
+Business Analyst,data flow diagramming,1,0.6
+Business Analyst,low-code,1,0.6
+Business Analyst,systems analysis,1,0.6
+Business Analyst,statistical modeling,2,1.2
+Business Analyst,marketing analytics,2,1.2
+Business Analyst,credit risk,2,1.2
+Business Analyst,consulting,1,0.6
+Business Analyst,prototype,1,0.6
+Business Analyst,figma,2,1.2
+Business Analyst,jupyter,1,0.6
+Business Analyst,genai,1,0.6
+Business Analyst,cross‑functional collaboration,1,0.6
+Business Analyst,lean methodologies,1,0.6
+Business Analyst,continuous improvement,1,0.6
+Business Analyst,relational databases,1,0.6
+Business Analyst,non‑relational databases,1,0.6
+Business Analyst,access,1,0.6
+Business Analyst,pharmacy informatics,1,0.6
+Business Analyst,statistical analysis,2,1.2
+Business Analyst,supply chain,1,0.6
+Business Analyst,ms project,1,0.6
+Business Analyst,t24,1,0.6
+Business Analyst,cbs,1,0.6
+Business Analyst,supplier management,1,0.6
+Business Analyst,retail procurement,1,0.6
+Business Analyst,data mining,1,0.6
+Business Analyst,ai integration,1,0.6
+Business Analyst,low‑code development,1,0.6
+Business Analyst,technical writing,1,0.6
+Business Analyst,sigma,1,0.6
+Business Analyst,user story creation,1,0.6
+Business Analyst,project planning,1,0.6
+Financial Analyst,reporting,20,18.87
+Financial Analyst,excel,53,50.0
+Financial Analyst,financial modeling,41,38.68
+Financial Analyst,oracle,4,3.77
+Financial Analyst,budgeting,48,45.28
+Financial Analyst,forecasting,45,42.45
+Financial Analyst,power bi,24,22.64
+Financial Analyst,variance analysis,33,31.13
+Financial Analyst,powerbi,2,1.89
+Financial Analyst,data visualization,6,5.66
+Financial Analyst,sql,12,11.32
+Financial Analyst,sap,15,14.15
+Financial Analyst,qlik,1,0.94
+Financial Analyst,powerpoint,8,7.55
+Financial Analyst,healthcare finance,2,1.89
+Financial Analyst,financial analysis,39,36.79
+Financial Analyst,ai tools,4,3.77
+Financial Analyst,prophix,1,0.94
+Financial Analyst,data analysis,23,21.7
+Financial Analyst,financial reporting,27,25.47
+Financial Analyst,epic,1,0.94
+Financial Analyst,cpa,2,1.89
+Financial Analyst,hris,1,0.94
+Financial Analyst,payroll,1,0.94
+Financial Analyst,compliance,3,2.83
+Financial Analyst,fp&a,5,4.72
+Financial Analyst,ai workflows,1,0.94
+Financial Analyst,automation,3,2.83
+Financial Analyst,dashboard creation,1,0.94
+Financial Analyst,data integration,1,0.94
+Financial Analyst,regulatory reporting,2,1.89
+Financial Analyst,audit support,5,4.72
+Financial Analyst,governance controls,1,0.94
+Financial Analyst,presentation skills,3,2.83
+Financial Analyst,advanced excel,5,4.72
+Financial Analyst,sql reporting,1,0.94
+Financial Analyst,remote collaboration,1,0.94
+Financial Analyst,looker dashboards,1,0.94
+Financial Analyst,budgeting & forecasting,3,2.83
+Financial Analyst,process standardization,1,0.94
+Financial Analyst,profitability analysis,2,1.89
+Financial Analyst,oracle erp,2,1.89
+Financial Analyst,excel modeling,13,12.26
+Financial Analyst,m&a integration,1,0.94
+Financial Analyst,process improvement,15,14.15
+Financial Analyst,risk assessment,1,0.94
+Financial Analyst,data analytics,2,1.89
+Financial Analyst,stakeholder management,9,8.49
+Financial Analyst,rpa automation,1,0.94
+Financial Analyst,cross‑functional collaboration,2,1.89
+Financial Analyst,strategic insight,1,0.94
+Financial Analyst,regulatory compliance,2,1.89
+Financial Analyst,accounting,3,2.83
+Financial Analyst,data reconciliation,1,0.94
+Financial Analyst,bi tools,2,1.89
+Financial Analyst,data manipulation,1,0.94
+Financial Analyst,stakeholder coordination,2,1.89
+Financial Analyst,asc 606,1,0.94
+Financial Analyst,invoicing,1,0.94
+Financial Analyst,manufacturing finance,2,1.89
+Financial Analyst,cost accounting,4,3.77
+Financial Analyst,erp,6,5.66
+Financial Analyst,data consolidation,1,0.94
+Financial Analyst,trend analysis,2,1.89
+Financial Analyst,budget management,1,0.94
+Financial Analyst,excel reporting,1,0.94
+Financial Analyst,presentation preparation,1,0.94
+Financial Analyst,portfolio monitoring,1,0.94
+Financial Analyst,investment research,1,0.94
+Financial Analyst,client communication,2,1.89
+Financial Analyst,asset allocation,1,0.94
+Financial Analyst,project management,5,4.72
+Financial Analyst,regulatory analysis,1,0.94
+Financial Analyst,stakeholder communication,4,3.77
+Financial Analyst,tariff design,1,0.94
+Financial Analyst,cost modeling,1,0.94
+Financial Analyst,bi reporting,1,0.94
+Financial Analyst,kpi tracking,1,0.94
+Financial Analyst,financial forecasting,2,1.89
+Financial Analyst,journal entries,3,2.83
+Financial Analyst,hyperion,5,4.72
+Financial Analyst,peoplesoft,1,0.94
+Financial Analyst,business case analysis,1,0.94
+Financial Analyst,cloud finance,1,0.94
+Financial Analyst,stakeholder partnership,1,0.94
+Financial Analyst,data pipelines,1,0.94
+Financial Analyst,reconciliation,8,7.55
+Financial Analyst,billing systems,1,0.94
+Financial Analyst,accounts receivable,2,1.89
+Financial Analyst,process automation,4,3.77
+Financial Analyst,chargebee,1,0.94
+Financial Analyst,ms office,1,0.94
+Financial Analyst,teamwork,1,0.94
+Financial Analyst,data entry,1,0.94
+Financial Analyst,audit,2,1.89
+Financial Analyst,erp systems,2,1.89
+Financial Analyst,multi‑currency accounting,1,0.94
+Financial Analyst,cash flow management,1,0.94
+Financial Analyst,kpi dashboards,1,0.94
+Financial Analyst,leadership communication,1,0.94
+Financial Analyst,roi analysis,2,1.89
+Financial Analyst,data validation,1,0.94
+Financial Analyst,executive reporting,1,0.94
+Financial Analyst,roi/nvp analysis,1,0.94
+Financial Analyst,python,2,1.89
+Financial Analyst,cost control,3,2.83
+Financial Analyst,microsoft office,1,0.94
+Financial Analyst,analytical thinking,1,0.94
+Financial Analyst,communication,1,0.94
+Financial Analyst,data modeling,2,1.89
+Financial Analyst,oracle sql,1,0.94
+Financial Analyst,budget forecasting,2,1.89
+Financial Analyst,consolidation,2,1.89
+Financial Analyst,cash flow forecasting,2,1.89
+Financial Analyst,dynamics erp,1,0.94
+Financial Analyst,nav calculation,1,0.94
+Financial Analyst,workiva reporting,1,0.94
+Financial Analyst,ifrs compliance,3,2.83
+Financial Analyst,supply chain finance,2,1.89
+Financial Analyst,cross‑functional partnering,1,0.94
+Financial Analyst,kpi reporting,1,0.94
+Financial Analyst,tableau,5,4.72
+Financial Analyst,gaap,3,2.83
+Financial Analyst,grant management,1,0.94
+Financial Analyst,word,1,0.94
+Financial Analyst,sox compliance,3,2.83
+Financial Analyst,month end close,1,0.94
+Financial Analyst,fixed assets,1,0.94
+Financial Analyst,inter-company reconciliation,1,0.94
+Financial Analyst,mfg/pro,1,0.94
+Financial Analyst,audit coordination,3,2.83
+Financial Analyst,cost analysis,4,3.77
+Financial Analyst,business intelligence,1,0.94
+Financial Analyst,financial modelling,1,0.94
+Financial Analyst,treasury operations,1,0.94
+Financial Analyst,risk management,1,0.94
+Financial Analyst,financial governance,1,0.94
+Financial Analyst,cash flow planning,1,0.94
+Financial Analyst,credit card administration,1,0.94
+Financial Analyst,invoice processing,1,0.94
+Financial Analyst,sap s/4hana,1,0.94
+Financial Analyst,visualization,1,0.94
+Financial Analyst,ms excel,1,0.94
+Financial Analyst,uat testing,1,0.94
+Financial Analyst,smartview,1,0.94
+Financial Analyst,balance sheet analysis,1,0.94
+Financial Analyst,oracle fusion,1,0.94
+Financial Analyst,inventory management,2,1.89
+Financial Analyst,netsuite erp,1,0.94
+Financial Analyst,erp/bi systems,1,0.94
+Financial Analyst,general ledger,4,3.77
+Financial Analyst,excel advanced,3,2.83
+Financial Analyst,ifrs,2,1.89
+Financial Analyst,power automate,1,0.94
+Financial Analyst,dashboard design,1,0.94
+Financial Analyst,month‑end closing,1,0.94
+Financial Analyst,ai,1,0.94
+Financial Analyst,data interpretation,2,1.89
+Financial Analyst,access,1,0.94
+Financial Analyst,budget negotiation,1,0.94
+Financial Analyst,protocol analysis,1,0.94
+Financial Analyst,qad,2,1.89
+Financial Analyst,strategic planning,2,1.89
+Financial Analyst,planning cycles,1,0.94
+Financial Analyst,data integrity,1,0.94
+Financial Analyst,cross-functional collaboration,1,0.94
+Financial Analyst,pharmacy finance,1,0.94
+Financial Analyst,policy development,1,0.94
+Financial Analyst,film accounting,1,0.94
+Financial Analyst,capex management,1,0.94
+Financial Analyst,sap finance,1,0.94
+Financial Analyst,powerpoint presentations,1,0.94
+Financial Analyst,corporate reporting,1,0.94
+Financial Analyst,oracle epm,1,0.94
+Financial Analyst,audit controls,1,0.94
+Financial Analyst,accounts payable,1,0.94
+Financial Analyst,procure-to-pay,1,0.94
+Financial Analyst,concur,1,0.94
+Financial Analyst,account reconciliations,1,0.94
+Financial Analyst,policy standardization,1,0.94
+Financial Analyst,erp/cpm systems,1,0.94
+Financial Analyst,cost optimization,1,0.94
+Financial Analyst,ai integration,2,1.89
+Financial Analyst,sales capacity planning,1,0.94
+Financial Analyst,excel automation,1,0.94
+Financial Analyst,data connectors,1,0.94
+Financial Analyst,collaboration,1,0.94
+Financial Analyst,earned value,1,0.94
+Financial Analyst,power query,1,0.94
+Financial Analyst,accounting concepts,1,0.94
+Financial Analyst,scenario analysis,3,2.83
+Financial Analyst,ev analysis,1,0.94
+Financial Analyst,apex,1,0.94
+Financial Analyst,cash management,1,0.94
+Financial Analyst,risk tracking,1,0.94
+Financial Analyst,excel macros,3,2.83
+Financial Analyst,oracle cloud erp,1,0.94
+Financial Analyst,variance accounting,1,0.94
+Financial Analyst,lifo/fifo,1,0.94
+Financial Analyst,onestream,2,1.89
+Financial Analyst,standard costing,1,0.94
+Financial Analyst,oig,1,0.94
+Financial Analyst,automated accounting,1,0.94
+Financial Analyst,dcaa,1,0.94
+Financial Analyst,far,1,0.94
+Financial Analyst,cas,1,0.94
+Financial Analyst,gao,1,0.94
+Financial Analyst,bill.com,1,0.94
+Financial Analyst,commission,1,0.94
+Financial Analyst,navan,1,0.94
+Financial Analyst,sage intacct,1,0.94
+Financial Analyst,ap/ar,1,0.94
+Financial Analyst,pivot tables,2,1.89
+Financial Analyst,real estate finance,1,0.94
+Financial Analyst,looker,1,0.94
+Financial Analyst,vba,1,0.94
+Financial Analyst,jd edwards,1,0.94
+Financial Analyst,land development,1,0.94
+Financial Analyst,excel pivot,1,0.94
+Financial Analyst,cost management,1,0.94
+Financial Analyst,business analysis,1,0.94
+Financial Analyst,metrics,1,0.94
+Financial Analyst,p&l planning,1,0.94
+Financial Analyst,month-end close,3,2.83
+Financial Analyst,budget monitoring,1,0.94
+Financial Analyst,erp usage,1,0.94
+Financial Analyst,tax processing,1,0.94
+Financial Analyst,epm/hfm,1,0.94
+Financial Analyst,agile,1,0.94
+Financial Analyst,financial planning,1,0.94
+Financial Analyst,waterfall,1,0.94
+Financial Analyst,attention to detail,1,0.94
+Financial Analyst,lease evaluation,1,0.94
+Financial Analyst,real‑estate strategy,1,0.94
+Financial Analyst,data presentation,1,0.94
+Financial Analyst,business partnering,2,1.89
+Financial Analyst,asset management,1,0.94
+Financial Analyst,executive presentation,2,1.89
+Financial Analyst,mentoring,1,0.94
+Financial Analyst,excel pivot tables,1,0.94
+Financial Analyst,earned value management,2,1.89
+Financial Analyst,project leadership,1,0.94
+Financial Analyst,cost estimation,1,0.94
+Financial Analyst,presentation,1,0.94
+Financial Analyst,cognos,1,0.94
+Financial Analyst,supply chain analysis,1,0.94
+Financial Analyst,month end,1,0.94
+Financial Analyst,treasury,1,0.94
+Financial Analyst,snowflake,1,0.94
+Financial Analyst,sox controls,1,0.94
+Financial Analyst,alteryx,1,0.94
+Financial Analyst,deltek cobra,1,0.94
+Financial Analyst,ms project,1,0.94
+Financial Analyst,sap s/4,1,0.94
+Financial Analyst,vlookup,1,0.94
+Financial Analyst,month‑end close,2,1.89
+Financial Analyst,distributor incentives,1,0.94
+Financial Analyst,control documentation,1,0.94
+Financial Analyst,anaplan,1,0.94
+Financial Analyst,pricing,1,0.94
+Financial Analyst,revenue forecasting,1,0.94
+Financial Analyst,dashboard reporting,1,0.94
+Financial Analyst,hyperion essbase,1,0.94
+Financial Analyst,manufacturing metrics,1,0.94
+Financial Analyst,finance,1,0.94
+Financial Analyst,data governance,1,0.94
+Financial Analyst,dashboarding,1,0.94
+Financial Analyst,fp&a tools,1,0.94
+Financial Analyst,oracle hyperion,1,0.94
+Business Intelligence Analyst,bi reporting,1,9.09
+Business Intelligence Analyst,data analysis,2,18.18
+Business Intelligence Analyst,stakeholder partnership,1,9.09
+Business Intelligence Analyst,trend analysis,1,9.09
+Business Intelligence Analyst,data modeling,4,36.36
+Business Intelligence Analyst,cross‑functional collaboration,1,9.09
+Business Intelligence Analyst,stakeholder communication,2,18.18
+Business Intelligence Analyst,bi tools,2,18.18
+Business Intelligence Analyst,etl processes,1,9.09
+Business Intelligence Analyst,data governance,1,9.09
+Business Intelligence Analyst,sql,9,81.82
+Business Intelligence Analyst,dashboard development,2,18.18
+Business Intelligence Analyst,blue yonder,1,9.09
+Business Intelligence Analyst,data visualization,2,18.18
+Business Intelligence Analyst,reporting,3,27.27
+Business Intelligence Analyst,excel,5,45.45
+Business Intelligence Analyst,demand planning,1,9.09
+Business Intelligence Analyst,powerbi,1,9.09
+Business Intelligence Analyst,data warehousing,1,9.09
+Business Intelligence Analyst,dashboard design,1,9.09
+Business Intelligence Analyst,analytics,1,9.09
+Business Intelligence Analyst,documentation,1,9.09
+Business Intelligence Analyst,requirement analysis,1,9.09
+Business Intelligence Analyst,quality assurance,1,9.09
+Business Intelligence Analyst,qlik,2,18.18
+Business Intelligence Analyst,tableau,6,54.55
+Business Intelligence Analyst,power bi,5,45.45
+Business Intelligence Analyst,collections analytics,1,9.09
+Business Intelligence Analyst,risk analytics,1,9.09
+Business Intelligence Analyst,fraud detection,1,9.09
+Business Intelligence Analyst,version control,1,9.09
+Business Intelligence Analyst,r,1,9.09
+Business Intelligence Analyst,r shiny,1,9.09
+Business Intelligence Analyst,dax,1,9.09
+Business Intelligence Analyst,mentoring,1,9.09
+Business Intelligence Analyst,mpi,1,9.09
+Business Intelligence Analyst,bloomberg,1,9.09
+Business Intelligence Analyst,vba,1,9.09
+Business Intelligence Analyst,factset,1,9.09
+Business Intelligence Analyst,advent,1,9.09
+Business Intelligence Analyst,spark,1,9.09
+Business Intelligence Analyst,scala,1,9.09
+Business Intelligence Analyst,python,2,18.18
+Business Intelligence Analyst,sas,1,9.09
+Business Intelligence Analyst,hive,1,9.09
+Business Intelligence Analyst,azure,1,9.09
+Business Intelligence Analyst,github,1,9.09
+Business Intelligence Analyst,agile,1,9.09
+Business Intelligence Analyst,databricks,1,9.09
+Operations Analyst,aws security,2,2.22
+Operations Analyst,soc analysis,3,3.33
+Operations Analyst,cloud security,2,2.22
+Operations Analyst,endpoint detection,1,1.11
+Operations Analyst,communication,20,22.22
+Operations Analyst,siem tuning,1,1.11
+Operations Analyst,threat hunting,3,3.33
+Operations Analyst,incident response,4,4.44
+Operations Analyst,siem analytics,1,1.11
+Operations Analyst,endpoint investigation,1,1.11
+Operations Analyst,python scripting,2,2.22
+Operations Analyst,excel,28,31.11
+Operations Analyst,stakeholder communication,5,5.56
+Operations Analyst,bi tools,2,2.22
+Operations Analyst,data reporting,2,2.22
+Operations Analyst,supply chain analytics,1,1.11
+Operations Analyst,tableau,8,8.89
+Operations Analyst,data integrity,1,1.11
+Operations Analyst,python,4,4.44
+Operations Analyst,handshake,1,1.11
+Operations Analyst,sql,13,14.44
+Operations Analyst,data pipelines,1,1.11
+Operations Analyst,automation,4,4.44
+Operations Analyst,compliance monitoring,1,1.11
+Operations Analyst,territory planning,1,1.11
+Operations Analyst,data analysis,29,32.22
+Operations Analyst,dashboard creation,1,1.11
+Operations Analyst,sales forecasting,1,1.11
+Operations Analyst,cross‑functional collaboration,9,10.0
+Operations Analyst,crm management,2,2.22
+Operations Analyst,kpi development,1,1.11
+Operations Analyst,ms excel,1,1.11
+Operations Analyst,english,4,4.44
+Operations Analyst,team player,1,1.11
+Operations Analyst,analytical mindset,1,1.11
+Operations Analyst,database management,2,2.22
+Operations Analyst,attention to detail,2,2.22
+Operations Analyst,documentation,7,7.78
+Operations Analyst,data extraction,2,2.22
+Operations Analyst,agile,2,2.22
+Operations Analyst,e‑commerce data,1,1.11
+Operations Analyst,regex,1,1.11
+Operations Analyst,data quality,6,6.67
+Operations Analyst,market research,1,1.11
+Operations Analyst,problem solving,6,6.67
+Operations Analyst,analytical thinking,2,2.22
+Operations Analyst,data entry,1,1.11
+Operations Analyst,data visualization,6,6.67
+Operations Analyst,analytical rigor,1,1.11
+Operations Analyst,crm integration,1,1.11
+Operations Analyst,capacity modeling,1,1.11
+Operations Analyst,resource planning,1,1.11
+Operations Analyst,excel reporting,1,1.11
+Operations Analyst,psa administration,1,1.11
+Operations Analyst,javascript,1,1.11
+Operations Analyst,salesforce admin,1,1.11
+Operations Analyst,ai automation,1,1.11
+Operations Analyst,cpq integration,1,1.11
+Operations Analyst,n8n workflows,1,1.11
+Operations Analyst,data quality checks,1,1.11
+Operations Analyst,revenue ops,1,1.11
+Operations Analyst,alteryx,1,1.11
+Operations Analyst,process documentation,1,1.11
+Operations Analyst,power query,1,1.11
+Operations Analyst,reconciliation,5,5.56
+Operations Analyst,stakeholder collaboration,1,1.11
+Operations Analyst,financial analysis,6,6.67
+Operations Analyst,linux,1,1.11
+Operations Analyst,windows,1,1.11
+Operations Analyst,incident management,2,2.22
+Operations Analyst,process automation,4,4.44
+Operations Analyst,data validation,4,4.44
+Operations Analyst,aws,1,1.11
+Operations Analyst,project management,10,11.11
+Operations Analyst,sales ops,1,1.11
+Operations Analyst,salesforce,8,8.89
+Operations Analyst,process design,3,3.33
+Operations Analyst,forecasting,6,6.67
+Operations Analyst,report generation,1,1.11
+Operations Analyst,security monitoring,1,1.11
+Operations Analyst,critical thinking,1,1.11
+Operations Analyst,written communication,1,1.11
+Operations Analyst,cybersecurity analysis,1,1.11
+Operations Analyst,threat intelligence,1,1.11
+Operations Analyst,commission administration,1,1.11
+Operations Analyst,power bi,9,10.0
+Operations Analyst,financial modeling,1,1.11
+Operations Analyst,compensation design,1,1.11
+Operations Analyst,customer onboarding,1,1.11
+Operations Analyst,reporting,11,12.22
+Operations Analyst,excel/sheets,1,1.11
+Operations Analyst,trade settlement,3,3.33
+Operations Analyst,regulatory knowledge,2,2.22
+Operations Analyst,business analytics,5,5.56
+Operations Analyst,corporate actions,3,3.33
+Operations Analyst,collateral management,5,5.56
+Operations Analyst,capital markets,1,1.11
+Operations Analyst,compliance management,2,2.22
+Operations Analyst,risk analytics,1,1.11
+Operations Analyst,contract management,1,1.11
+Operations Analyst,process improvement,16,17.78
+Operations Analyst,analytics reporting,1,1.11
+Operations Analyst,powerpoint,5,5.56
+Operations Analyst,budget management,1,1.11
+Operations Analyst,kpi measurement,1,1.11
+Operations Analyst,vendor onboarding,1,1.11
+Operations Analyst,corporate onboarding,1,1.11
+Operations Analyst,regulatory analysis,1,1.11
+Operations Analyst,kyb compliance,1,1.11
+Operations Analyst,fintech knowledge,1,1.11
+Operations Analyst,risk assessment,6,6.67
+Operations Analyst,customer support,1,1.11
+Operations Analyst,linux admin,1,1.11
+Operations Analyst,cloud investigations,1,1.11
+Operations Analyst,threat intel,2,2.22
+Operations Analyst,scripting,1,1.11
+Operations Analyst,windows admin,1,1.11
+Operations Analyst,network fundamentals,1,1.11
+Operations Analyst,malware analysis,2,2.22
+Operations Analyst,ai‑tools,1,1.11
+Operations Analyst,api integration,1,1.11
+Operations Analyst,logistics,3,3.33
+Operations Analyst,workflow automation,2,2.22
+Operations Analyst,supply chain,1,1.11
+Operations Analyst,excel automation,1,1.11
+Operations Analyst,reporting dashboards,1,1.11
+Operations Analyst,financial modelling,1,1.11
+Operations Analyst,stakeholder management,5,5.56
+Operations Analyst,advanced excel,1,1.11
+Operations Analyst,data modeling,2,2.22
+Operations Analyst,looker,2,2.22
+Operations Analyst,saas analytics,1,1.11
+Operations Analyst,staffing forecast,1,1.11
+Operations Analyst,workforce management,2,2.22
+Operations Analyst,schedule development,1,1.11
+Operations Analyst,contact center operations,1,1.11
+Operations Analyst,kpi reporting,1,1.11
+Operations Analyst,performance analytics,2,2.22
+Operations Analyst,software tools,1,1.11
+Operations Analyst,it support,1,1.11
+Operations Analyst,security practices,1,1.11
+Operations Analyst,hardware troubleshooting,1,1.11
+Operations Analyst,relationship management,1,1.11
+Operations Analyst,ibm tivoli,1,1.11
+Operations Analyst,mainframe operations,1,1.11
+Operations Analyst,monitoring tools,2,2.22
+Operations Analyst,job scheduling,1,1.11
+Operations Analyst,excel analytics,1,1.11
+Operations Analyst,operations monitoring,1,1.11
+Operations Analyst,shift coordination,1,1.11
+Operations Analyst,communication management,1,1.11
+Operations Analyst,process optimization,3,3.33
+Operations Analyst,customer service,2,2.22
+Operations Analyst,loan servicing,1,1.11
+Operations Analyst,time management,2,2.22
+Operations Analyst,10-key entry,1,1.11
+Operations Analyst,payment processing,3,3.33
+Operations Analyst,analytical skills,2,2.22
+Operations Analyst,background checks,1,1.11
+Operations Analyst,immigration compliance,1,1.11
+Operations Analyst,hr operations,1,1.11
+Operations Analyst,workday,1,1.11
+Operations Analyst,candidate experience,1,1.11
+Operations Analyst,vulnerability management,1,1.11
+Operations Analyst,elms,1,1.11
+Operations Analyst,microsoft endpoint configuration manager,1,1.11
+Operations Analyst,security compliance,1,1.11
+Operations Analyst,patch management,1,1.11
+Operations Analyst,security operations,2,2.22
+Operations Analyst,credit operations,1,1.11
+Operations Analyst,risk management,6,6.67
+Operations Analyst,regulatory compliance,3,3.33
+Operations Analyst,loan processing,2,2.22
+Operations Analyst,ms office,2,2.22
+Operations Analyst,detail orientation,2,2.22
+Operations Analyst,budget monitoring,1,1.11
+Operations Analyst,data analytics,2,2.22
+Operations Analyst,healthcare finance,2,2.22
+Operations Analyst,financial risk mitigation,1,1.11
+Operations Analyst,system upgrades,1,1.11
+Operations Analyst,fixed income,1,1.11
+Operations Analyst,disaster recovery,1,1.11
+Operations Analyst,exception handling,1,1.11
+Operations Analyst,claims analytics,1,1.11
+Operations Analyst,workforce analytics,1,1.11
+Operations Analyst,aml compliance,1,1.11
+Operations Analyst,investigation,1,1.11
+Operations Analyst,rpa,1,1.11
+Operations Analyst,financial reporting,3,3.33
+Operations Analyst,erp systems,2,2.22
+Operations Analyst,project leadership,1,1.11
+Operations Analyst,data lifecycle management,1,1.11
+Operations Analyst,expense analysis,1,1.11
+Operations Analyst,excel modeling,3,3.33
+Operations Analyst,revenue management,1,1.11
+Operations Analyst,sap,1,1.11
+Operations Analyst,gis mapping,1,1.11
+Operations Analyst,stakeholder engagement,1,1.11
+Operations Analyst,account management,1,1.11
+Operations Analyst,collections,1,1.11
+Operations Analyst,accounts receivable,2,2.22
+Operations Analyst,cash applications,1,1.11
+Operations Analyst,rotational shifts,1,1.11
+Operations Analyst,financial reconciliation,1,1.11
+Operations Analyst,billing,2,2.22
+Operations Analyst,order to cash,2,2.22
+Operations Analyst,settlements,3,3.33
+Operations Analyst,otc derivatives,2,2.22
+Operations Analyst,trade processing,3,3.33
+Operations Analyst,banking products,1,1.11
+Operations Analyst,rom estimates,1,1.11
+Operations Analyst,resource coordination,1,1.11
+Operations Analyst,program finance,1,1.11
+Operations Analyst,budgeting,1,1.11
+Operations Analyst,subcontractor timecards,1,1.11
+Operations Analyst,travel processing,1,1.11
+Operations Analyst,fast‑paced environment,1,1.11
+Operations Analyst,microsoft office,7,7.78
+Operations Analyst,detail oriented,1,1.11
+Operations Analyst,syndicated lending,1,1.11
+Operations Analyst,acbs,1,1.11
+Operations Analyst,loan iq,1,1.11
+Operations Analyst,client communication,1,1.11
+Operations Analyst,powerbi,1,1.11
+Operations Analyst,sics,1,1.11
+Operations Analyst,claim recovery,1,1.11
+Operations Analyst,credit control,1,1.11
+Operations Analyst,reinsurance,1,1.11
+Operations Analyst,technical accounting,1,1.11
+Operations Analyst,portfolio support,1,1.11
+Operations Analyst,investment operations,1,1.11
+Operations Analyst,fund valuations,1,1.11
+Operations Analyst,transaction monitoring,1,1.11
+Operations Analyst,risk analysis,1,1.11
+Operations Analyst,customer communication,1,1.11
+Operations Analyst,fraud detection,1,1.11
+Operations Analyst,process management,2,2.22
+Operations Analyst,teamwork,2,2.22
+Operations Analyst,aml,2,2.22
+Operations Analyst,kyc,2,2.22
+Operations Analyst,data management,2,2.22
+Operations Analyst,compliance,2,2.22
+Operations Analyst,due diligence,1,1.11
+Operations Analyst,regulatory reporting,2,2.22
+Operations Analyst,governance,1,1.11
+Operations Analyst,xdr,1,1.11
+Operations Analyst,edr,1,1.11
+Operations Analyst,vulnerability mgmt,1,1.11
+Operations Analyst,mitre,1,1.11
+Operations Analyst,soar,1,1.11
+Operations Analyst,nist,1,1.11
+Operations Analyst,siem,2,2.22
+Operations Analyst,qms,1,1.11
+Operations Analyst,leadership,1,1.11
+Operations Analyst,safety compliance,1,1.11
+Operations Analyst,quality assurance,4,4.44
+Operations Analyst,lean manufacturing,1,1.11
+Operations Analyst,client support,1,1.11
+Operations Analyst,data processing,1,1.11
+Operations Analyst,margin optimization,1,1.11
+Operations Analyst,xactly,1,1.11
+Operations Analyst,analytical,1,1.11
+Operations Analyst,kpi monitoring,1,1.11
+Operations Analyst,dashboarding,2,2.22
+Operations Analyst,operational analysis,1,1.11
+Operations Analyst,performance metrics,1,1.11
+Operations Analyst,schedule feasibility,1,1.11
+Operations Analyst,root cause analysis,1,1.11
+Operations Analyst,financial partnerships,1,1.11
+Operations Analyst,program management,1,1.11
+Operations Analyst,root‑cause analysis,1,1.11
+Operations Analyst,team collaboration,1,1.11
+Operations Analyst,cash application,1,1.11
+Operations Analyst,zendesk,1,1.11
+Operations Analyst,genesys,1,1.11
+Operations Analyst,contact center,1,1.11
+Operations Analyst,servicenow,1,1.11
+Operations Analyst,nice,1,1.11
+Operations Analyst,ai analytics,1,1.11
+Operations Analyst,organization,1,1.11
+Operations Analyst,adaptability,1,1.11
+Operations Analyst,customer insights,1,1.11
+Operations Analyst,multi‑domain modeling,1,1.11
+Operations Analyst,operations analysis,2,2.22
+Operations Analyst,trend discovery,1,1.11
+Operations Analyst,ai‑assisted development,1,1.11
+Operations Analyst,presentation,2,2.22
+Operations Analyst,team leadership,1,1.11
+Operations Analyst,simulation,1,1.11
+Operations Analyst,windows services,1,1.11
+Operations Analyst,application support,1,1.11
+Operations Analyst,knowledge base,1,1.11
+Operations Analyst,linux basics,1,1.11
+Operations Analyst,troubleshooting,1,1.11
+Operations Analyst,strategic planning,1,1.11
+Operations Analyst,program analysis,1,1.11
+Operations Analyst,executive briefing,1,1.11
+Operations Analyst,research,2,2.22
+Operations Analyst,stakeholder coordination,1,1.11
+Operations Analyst,transition planning,1,1.11
+Operations Analyst,dashboard development,1,1.11
+Operations Analyst,sharepoint,1,1.11
+Operations Analyst,spreadsheet,1,1.11
+Operations Analyst,api,1,1.11
+Operations Analyst,ai tools,2,2.22
+Operations Analyst,rave,1,1.11
+Operations Analyst,medidata,1,1.11
+Operations Analyst,ctms,1,1.11
+Operations Analyst,statistical analysis,1,1.11
+Operations Analyst,product engineering,1,1.11
+Operations Analyst,ai integration,1,1.11
+Operations Analyst,supply chain management,1,1.11
+Operations Analyst,business intelligence,1,1.11
+Operations Analyst,dax,1,1.11
+Operations Analyst,crm administration,1,1.11
+Operations Analyst,translation management,1,1.11
+Operations Analyst,content creation,1,1.11
+Operations Analyst,compliance coordination,1,1.11
+Operations Analyst,marketing platforms,1,1.11
+Operations Analyst,storytelling,2,2.22
+Operations Analyst,user training,1,1.11
+Operations Analyst,process adherence,1,1.11
+Operations Analyst,pipeline management,1,1.11
+Operations Analyst,sales reporting,1,1.11
+Operations Analyst,analytics,1,1.11
+Operations Analyst,negotiation,1,1.11
+Operations Analyst,order fulfillment,1,1.11
+Operations Analyst,account reconciliation,1,1.11
+Operations Analyst,credit management,1,1.11
+Operations Analyst,invoicing,1,1.11
+Operations Analyst,jira,1,1.11
+Operations Analyst,pii compliance,1,1.11
+Operations Analyst,data governance,1,1.11
+Operations Analyst,data integration,1,1.11
+Operations Analyst,etl,1,1.11
+Operations Analyst,google suite,1,1.11
+Operations Analyst,transcription,1,1.11
+Operations Analyst,information comparison,1,1.11
+Operations Analyst,data interpretation,1,1.11
+Operations Analyst,mitre att&ck,1,1.11
+Operations Analyst,soc,1,1.11
+Operations Analyst,sim,1,1.11
+Operations Analyst,intelligence‑driven defense,1,1.11
+Operations Analyst,crm (salesforce),1,1.11
+Operations Analyst,kyc documentation,1,1.11
+Operations Analyst,policy compliance,1,1.11
+Operations Analyst,control escalation,1,1.11
+Operations Analyst,aml monitoring,1,1.11
+Operations Analyst,client onboarding,1,1.11
+Operations Analyst,ethical judgment,1,1.11
+Operations Analyst,power bi reports,1,1.11
+Operations Analyst,performance monitoring,1,1.11
+Operations Analyst,cost per hire optimization,1,1.11
+Operations Analyst,capacity planning,1,1.11
+Operations Analyst,tableau dashboards,1,1.11
+Operations Analyst,sql queries,1,1.11
+Operations Analyst,word,1,1.11

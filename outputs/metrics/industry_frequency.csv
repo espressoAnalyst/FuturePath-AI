@@ -1,0 +1,1177 @@
+industry_label,posting_count,percent_of_all_postings
+Healthcare,1106,0.98
+Retail,620,0.55
+Manufacturing,246,0.218
+Technology,235,0.208
+Hospitality,216,0.191
+Financial Services,194,0.172
+Education,181,0.16
+Automotive,155,0.137
+Finance,145,0.129
+Engineering,110,0.098
+Construction,107,0.095
+Transportation,95,0.084
+Information Technology,91,0.081
+Banking,88,0.078
+Security,77,0.068
+Insurance,76,0.067
+Logistics,71,0.063
+Real Estate,65,0.058
+Food Service,55,0.049
+Pharmaceutical,51,0.045
+Consulting,50,0.044
+Marketing,50,0.044
+Defense,47,0.042
+Human Resources,47,0.042
+Sales,46,0.041
+"[""Healthcare""]",45,0.04
+Government,42,0.037
+Health Care,41,0.036
+Legal,39,0.035
+Energy,38,0.034
+Food & Beverage,37,0.033
+Professional Services,35,0.031
+Infrastructure,35,0.031
+Medical Devices,34,0.03
+Aerospace,33,0.029
+Pharmaceuticals,32,0.028
+Telecommunications,32,0.028
+Utilities,31,0.027
+Operations,30,0.027
+Fitness,26,0.023
+Behavioral Health,26,0.023
+Supply Chain,26,0.023
+"[""Retail""]",25,0.022
+IT Services,25,0.022
+Fintech,23,0.02
+Customer Service,23,0.02
+Semiconductor,22,0.02
+Security Services,22,0.02
+Gaming,22,0.02
+Nursing,22,0.02
+Facilities,22,0.02
+Pharmacy,21,0.019
+Life Sciences,20,0.018
+Advertising,20,0.018
+Software Development,19,0.017
+Public Safety,19,0.017
+Cybersecurity,19,0.017
+Social Services,18,0.016
+Property Management,18,0.016
+Software Engineering,18,0.016
+Software,17,0.015
+Biotechnology,17,0.015
+Restaurant - Food Service,17,0.015
+Veterinary,16,0.014
+Restaurant,15,0.013
+Aerospace & Defense,15,0.013
+Consumer Bank,15,0.013
+Human Services,14,0.012
+Facilities Management,14,0.012
+Technology Services,13,0.012
+"[""Hospitality""]",13,0.012
+Nonprofit,13,0.012
+Public Sector,13,0.012
+Nonprofit - Social Services,12,0.011
+Environmental Services,12,0.011
+Consumer Packaged Goods,12,0.011
+Oil & Gas,12,0.011
+Food Production,12,0.011
+Agriculture,11,0.01
+Aviation,11,0.01
+"[""Manufacturing""]",11,0.01
+Dental,11,0.01
+Waste Management,11,0.01
+Payments,11,0.01
+"[""Education""]",11,0.01
+"[""Financial Services""]",10,0.009
+Consumer Goods,10,0.009
+Mining,10,0.009
+Accounting,10,0.009
+Allied Health,10,0.009
+Healthcare IT,9,0.008
+Entertainment,9,0.008
+Information Security,9,0.008
+Industrial Equipment,9,0.008
+Physical Therapy,9,0.008
+Legal Services,8,0.007
+Beauty,8,0.007
+Service,8,0.007
+E-commerce,8,0.007
+Mental Health,8,0.007
+Procurement,8,0.007
+Childcare,7,0.006
+FinTech,7,0.006
+Industrial,7,0.006
+Home Improvement,7,0.006
+Risk Management,7,0.006
+International Development,7,0.006
+"[""Information Technology""]",7,0.006
+"[""Finance""]",7,0.006
+Hospitality - Hotel,7,0.006
+Maintenance,6,0.005
+Finance and Accounting,6,0.005
+Transportation/Logistics,6,0.005
+Marketing Technology,6,0.005
+Senior Living,6,0.005
+Humanitarian,6,0.005
+Real Estate Services,6,0.005
+Clinical,6,0.005
+Veterinary Medicine,6,0.005
+Marketing & Advertising,6,0.005
+IT,6,0.005
+Consumer & Community Banking,6,0.005
+Semiconductors,5,0.004
+Healthcare Services,5,0.004
+Biopharmaceutical,5,0.004
+Operations - Collection,5,0.004
+Data Center,5,0.004
+Distribution,5,0.004
+"[""Automotive""]",5,0.004
+Infrastructure Consulting,5,0.004
+Higher Education,5,0.004
+Healthcare Technology,5,0.004
+Hospital,5,0.004
+Health,5,0.004
+Technical Labor,5,0.004
+Retail Banking,5,0.004
+Quality Assurance,5,0.004
+General Labor,5,0.004
+Automotive Services,5,0.004
+Health Sciences,5,0.004
+Electrical Engineering,5,0.004
+Robotics,5,0.004
+Pest Control,5,0.004
+Industrial Services,5,0.004
+"[""Health Care""]",5,0.004
+Vente directe,5,0.004
+Industrial Automation,5,0.004
+Pet Care,5,0.004
+Social Care,5,0.004
+Food and Beverage Services,5,0.004
+"[""Retail"", ""Convenience Store""]",5,0.004
+Public Works,4,0.004
+Transportation & Logistics,4,0.004
+"[""Government""]",4,0.004
+Media & Entertainment,4,0.004
+E‑commerce,4,0.004
+Research,4,0.004
+Facilities Services,4,0.004
+Dining Services,4,0.004
+Admin - Clerical,4,0.004
+Education Technology,4,0.004
+Geoscience,4,0.004
+Defence,4,0.004
+Cannabis,4,0.004
+Public Health,4,0.004
+Media,4,0.004
+Compliance,4,0.004
+Finance & Accounting,4,0.004
+"[""Technology""]",4,0.004
+Management,4,0.004
+Administrative,4,0.004
+Tax,4,0.004
+Biopharmaceuticals,4,0.004
+Radiology,4,0.004
+Data & Analytics,4,0.004
+Renewable Energy,4,0.004
+Clinical Support,4,0.004
+"[""Construction""]",4,0.004
+Mortgage,4,0.004
+Defense Technology,4,0.004
+Automotive Repair,3,0.003
+"[""Higher Education""]",3,0.003
+Government Services,3,0.003
+Intelligence,3,0.003
+Home Care,3,0.003
+Beverage Distribution,3,0.003
+Beverage,3,0.003
+Transport,3,0.003
+Market Research,3,0.003
+"[""Senior Living""]",3,0.003
+Automotive Retail,3,0.003
+Funeral Services,3,0.003
+Building Materials,3,0.003
+Industrial Gases,3,0.003
+"[""Banking""]",3,0.003
+Environmental Consulting,3,0.003
+Networking,3,0.003
+Commercial,3,0.003
+Recruitment,3,0.003
+Retail/E‑commerce,3,0.003
+Wellness,3,0.003
+manufacturing,3,0.003
+Risk,3,0.003
+Food Manufacturing,3,0.003
+"[""Accounting"", ""Audit""]",3,0.003
+Audit,3,0.003
+Environment,3,0.003
+Retail Pharmacy,3,0.003
+Advertising Technology,3,0.003
+Equipment Rental,3,0.003
+"[""Logistics""]",3,0.003
+Sports & Recreation,3,0.003
+Non-profit,3,0.003
+Non‑profit,3,0.003
+Flagging,3,0.003
+Communications,3,0.003
+HR,3,0.003
+"[""Transportation""]",3,0.003
+Quality,3,0.003
+Health & Fitness,3,0.003
+Skilled Labor - Trades,3,0.003
+Events,3,0.003
+Production,3,0.003
+Civil Engineering,3,0.003
+Defense & Security,3,0.003
+Dentistry,3,0.003
+"[""Marketing""]",3,0.003
+Warehouse,3,0.003
+AI,3,0.003
+Services,3,0.003
+Sales Operations,3,0.003
+Travel & Hospitality,3,0.003
+Staffing,3,0.003
+Sales & Marketing,3,0.003
+"[""Food & Beverage""]",3,0.003
+Artificial Intelligence,3,0.003
+Consumer Products,3,0.003
+"[""Energy"", ""Utilities""]",3,0.003
+Food Delivery,3,0.003
+Digital Marketing,3,0.003
+Fire Protection,3,0.003
+HVAC,3,0.003
+Construction Equipment,3,0.003
+Commercial Bank,3,0.003
+Sports,3,0.003
+Industrial Technology,3,0.003
+Music & Entertainment,3,0.003
+"[""Construction"", ""Engineering""]",3,0.003
+Social Work,3,0.003
+Retail Store Positions,3,0.003
+Social Media,2,0.002
+Semiconductor manufacturing,2,0.002
+Quantum Computing,2,0.002
+Energy & Utilities,2,0.002
+Material Handling,2,0.002
+Shipbuilding,2,0.002
+Facility Management,2,0.002
+Administration,2,0.002
+FMCG,2,0.002
+"[""Social Services""]",2,0.002
+Software/IT Services,2,0.002
+Veterinary Services,2,0.002
+National Security,2,0.002
+Store Operations,2,0.002
+Retail Grocery,2,0.002
+Consumer Health,2,0.002
+Animal Health,2,0.002
+Water & Wastewater,2,0.002
+"[""Architecture""]",2,0.002
+Automotive Sales,2,0.002
+Assisted Living,2,0.002
+Medical,2,0.002
+Sustainability,2,0.002
+hospitality,2,0.002
+Biopharma,2,0.002
+Geospatial,2,0.002
+Food and Beverage,2,0.002
+iGaming,2,0.002
+healthcare,2,0.002
+property,2,0.002
+"[""Agriculture""]",2,0.002
+"[""Food Production""]",2,0.002
+"[""Government Services""]",2,0.002
+Nuclear Engineering,2,0.002
+"[""Oil & Gas""]",2,0.002
+"[""Aerospace & Defense""]",2,0.002
+Defense technology,2,0.002
+"[""IT Services""]",2,0.002
+Library Services,2,0.002
+Investment Management,2,0.002
+Corrections,2,0.002
+Food Services,2,0.002
+"[""Business Services""]",2,0.002
+Foodservice Distribution,2,0.002
+Foodservice,2,0.002
+Food Safety,2,0.002
+Chemicals,2,0.002
+"[""Utilities""]",2,0.002
+Retail Automotive,2,0.002
+Technology Consulting,2,0.002
+"[""Professional Services""]",2,0.002
+"[""Waste Management""]",2,0.002
+Information Technology Services,2,0.002
+Semiconductor Manufacturing,2,0.002
+Analytics,2,0.002
+Sports Equipment,2,0.002
+Academic,2,0.002
+Data Management,2,0.002
+Housekeeping/Cleaners,2,0.002
+People,2,0.002
+Corporate Banking,2,0.002
+Government Affairs,2,0.002
+Transportation and Logistics,2,0.002
+Public Services,2,0.002
+Managed Services,2,0.002
+"[""Logistics"", ""Supply Chain""]",2,0.002
+IT & Digital,2,0.002
+Psychology,2,0.002
+Logistics and Transportation,2,0.002
+Facility Services,2,0.002
+Non-Clinical,2,0.002
+Nurse,2,0.002
+Caregiving,2,0.002
+Supply Chain Management & Operations,2,0.002
+Revenue Cycle,2,0.002
+Creative,2,0.002
+Transportation Engineering,2,0.002
+Construction Materials,2,0.002
+Hardware,2,0.002
+Marketing & Communications,2,0.002
+"[""Insurance""]",2,0.002
+Behavioral Analysis,2,0.002
+Embedded Systems,2,0.002
+Engineering & Construction,2,0.002
+Project Management,2,0.002
+Behavioral Services,2,0.002
+Water Treatment,2,0.002
+Field Services,2,0.002
+"[""Banking"", ""Financial Services""]",2,0.002
+"[""Software"", ""Technology""]",2,0.002
+Customer Experience,2,0.002
+Laboratory Services,2,0.002
+"[""Healthcare"", ""Pharmacy""]",2,0.002
+Technology Distribution,2,0.002
+"[""Hospital""]",2,0.002
+Manufacturing Operations,2,0.002
+Travel & Tourism,2,0.002
+Drivers,2,0.002
+Data Center Operations,2,0.002
+IT Support,2,0.002
+Athletics,2,0.002
+Physical Security,2,0.002
+Design,2,0.002
+Healthcare Diagnostics,2,0.002
+"[""Food Service""]",2,0.002
+AdTech,2,0.002
+Applied Behavior Analysis / ABA,2,0.002
+Waste Infrastructure,2,0.002
+Energy & Resources,2,0.002
+HR Technology,2,0.002
+Laboratory,2,0.002
+Life sciences,2,0.002
+Sports Media,2,0.002
+"[""Technology"", ""AI""]",2,0.002
+Food Distribution,2,0.002
+Data Engineering,2,0.002
+Digital Advertising,2,0.002
+Safety,2,0.002
+"[""Healthcare Services""]",2,0.002
+Healthcare technology,2,0.002
+Sports & Events,2,0.002
+"[""Sales""]",2,0.002
+Therapy,2,0.002
+Financial Technology,2,0.002
+Architecture,2,0.002
+Oil & Chemicals,2,0.002
+Enterprise Technology,2,0.002
+"[""Accounting"", ""Finance""]",2,0.002
+Architecture & Design,2,0.002
+"[""Real Estate"", ""Property Management""]",2,0.002
+Early Childhood Education,2,0.002
+Critical Infrastructure,2,0.002
+Industrial Maintenance,2,0.002
+Platform Engineering,2,0.002
+Claims,2,0.002
+"[""Healthcare"", ""Mental Health""]",2,0.002
+Engineering & Facilities,2,0.002
+Tree Care,2,0.002
+Food and Beverage & Culinary,2,0.002
+Electrical,2,0.002
+Maritime,2,0.002
+Reconditioning,2,0.002
+Education & Training,2,0.002
+Clinical Operations,2,0.002
+HealthTech,2,0.002
+Consumer Banking,2,0.002
+Landscaping,2,0.002
+"[""Transportation"", ""Logistics""]",2,0.002
+Residential Services,2,0.002
+Public Administration,2,0.002
+Advertising & Sales,2,0.002
+Customer Support,2,0.002
+Clinical Research,2,0.002
+Law Enforcement,2,0.002
+Sports & Entertainment,2,0.002
+Juvenile Justice,2,0.002
+"[""Technology"", ""Software Development""]",2,0.002
+"[""Consulting""]",2,0.002
+Travel,2,0.002
+Personal & Commercial Banking,2,0.002
+Energy Infrastructure,2,0.002
+Payroll,2,0.002
+Other,2,0.002
+Engineering - Electrical,2,0.002
+Business Process Outsourcing,2,0.002
+Retail Technology,2,0.002
+Dealer Services,2,0.002
+Sales/Finance,2,0.002
+Corporate Affairs/Communications,2,0.002
+Dialysis,2,0.002
+Music Technology,1,0.001
+"[""Education"", ""Public Safety""]",1,0.001
+Seafood,1,0.001
+Biomanufacturing,1,0.001
+Storage and Logistics,1,0.001
+Electrical manufacturing,1,0.001
+Sports/Entertainment,1,0.001
+"[""Logistics"", ""Shipping""]",1,0.001
+Instructors & Education,1,0.001
+"[""Payments""]",1,0.001
+Public sector,1,0.001
+"[""Homebuilding""]",1,0.001
+Fashion,1,0.001
+Gaming/Entertainment,1,0.001
+Humanitarian Aid,1,0.001
+Advancement,1,0.001
+Home Care Services,1,0.001
+"[""Environmental Services""]",1,0.001
+Auto Parts,1,0.001
+Airlines,1,0.001
+"[""Defense""]",1,0.001
+Media/Advertising,1,0.001
+Space & Defence,1,0.001
+"[""Hospitality"", ""Medical"", ""Industrial""]",1,0.001
+"Testing, Inspection & Certification",1,0.001
+E‑Commerce,1,0.001
+"[""Mining""]",1,0.001
+Beverages,1,0.001
+"[""Beverage""]",1,0.001
+Industrial manufacturing,1,0.001
+Industry Services,1,0.001
+"[""Nursing""]",1,0.001
+Hairdressing,1,0.001
+School Services,1,0.001
+"[""Education"", ""Healthcare""]",1,0.001
+"[""Industrial""]",1,0.001
+"Architecture, Engineering and Construction",1,0.001
+Federal Government,1,0.001
+Wholesale,1,0.001
+HR Services,1,0.001
+Pharmaceutical Clinical Research,1,0.001
+Mobility,1,0.001
+Waste-to-Energy,1,0.001
+"[""Energy"", ""Software""]",1,0.001
+Occupational Therapy,1,0.001
+Domestic Services,1,0.001
+Facility Maintenance,1,0.001
+Aviation Services,1,0.001
+"[""Energy"", ""Manufacturing"", ""Technology""]",1,0.001
+Strategy - Planning,1,0.001
+Construction Management,1,0.001
+"[""Geospatial"", ""Infrastructure""]",1,0.001
+Fashion Retail,1,0.001
+"[""Advertising"", ""Retail""]",1,0.001
+"[""Energy""]",1,0.001
+"[""Software Development""]",1,0.001
+International Organization for Migration,1,0.001
+"[""Wind Energy""]",1,0.001
+"[""Manufacturing"", ""Industrial Automation""]",1,0.001
+Lumber,1,0.001
+"Financial Services, Healthcare, Automotive",1,0.001
+Food testing,1,0.001
+Mental Health Services,1,0.001
+Automotive Manufacturing,1,0.001
+Automotive Defense,1,0.001
+Consulting and Operations,1,0.001
+"[""Construction"", ""Insurance"", ""Legal""]",1,0.001
+"[""Gaming""]",1,0.001
+information_technology,1,0.001
+"[""Artificial Intelligence""]",1,0.001
+"[""Real Estate"", ""Construction""]",1,0.001
+Field Operations,1,0.001
+automotive,1,0.001
+Retail/Food Service,1,0.001
+biotech_pharma,1,0.001
+"[""Healthcare"", ""Consumer Electronics""]",1,0.001
+logistics,1,0.001
+Accounting/Finance,1,0.001
+Technology & Professional Services,1,0.001
+Repair & Maintenance,1,0.001
+"[""Defense"", ""Security""]",1,0.001
+"[""Audio‑Visual"", ""LED displays""]",1,0.001
+"[""Logistics"", ""Freight Forwarding"", ""Warehousing"", ""Energy Industry Support""]",1,0.001
+consulting,1,0.001
+Engineering Services,1,0.001
+"[""Aviation Engineering""]",1,0.001
+Insurtech,1,0.001
+"[""Investment Management"", ""Fintech""]",1,0.001
+retail,1,0.001
+"[""Engineering""]",1,0.001
+"[""Real Estate""]",1,0.001
+tourism,1,0.001
+"Aerospace, Defense, Space",1,0.001
+Services - Benefits,1,0.001
+Medical Marijuana,1,0.001
+"[""Consulting"", ""Engineering""]",1,0.001
+Motorsports Media,1,0.001
+Behavioral Health Services,1,0.001
+"[""Talent Acquisition""]",1,0.001
+"[""Healthcare Insurance""]",1,0.001
+Automotive parts distribution,1,0.001
+Medical Management,1,0.001
+"[""Fintech"", ""Payments"", ""Restaurant Technology""]",1,0.001
+"[""Fintech"", ""Payments""]",1,0.001
+Confectionery,1,0.001
+Sales and Sales Operations,1,0.001
+Political Advocacy,1,0.001
+"[""Property Management""]",1,0.001
+recruitment_hr,1,0.001
+Self‑Storage,1,0.001
+accountancy,1,0.001
+"[""Maritime"", ""Shipping"", ""Commodities""]",1,0.001
+Automotive Finance,1,0.001
+Education Services,1,0.001
+"[""Food Manufacturing""]",1,0.001
+Medical Equipment,1,0.001
+Healthcare/Public Sector,1,0.001
+Naval engineering,1,0.001
+Railway,1,0.001
+Business Development & Sales,1,0.001
+engineering,1,0.001
+education,1,0.001
+Education/Childcare,1,0.001
+"[""Infrastructure""]",1,0.001
+"[""Infrastructure"", ""Construction""]",1,0.001
+Public Libraries,1,0.001
+Recreation,1,0.001
+AI Training Data,1,0.001
+Consumer Electronics,1,0.001
+E‑commerce Payments,1,0.001
+"[""Digital Marketing""]",1,0.001
+Plastics,1,0.001
+"[""Public Safety""]",1,0.001
+Automotive Parts Aftermarket,1,0.001
+Enterprise SaaS,1,0.001
+Health-tech,1,0.001
+Affordable Housing,1,0.001
+Restoration,1,0.001
+Food Retail,1,0.001
+Retail/Education,1,0.001
+"[""Aerospace Manufacturing""]",1,0.001
+Heavy Equipment Manufacturing,1,0.001
+"[""Pharmaceuticals""]",1,0.001
+Scientific Instruments,1,0.001
+Fund administration,1,0.001
+Metals,1,0.001
+"[""Foodservice Distribution""]",1,0.001
+Automotive Glass,1,0.001
+Water Utilities,1,0.001
+Pharmaceutical Manufacturing,1,0.001
+"[""Software""]",1,0.001
+"[""Mining equipment""]",1,0.001
+"[""Transportation/Logistics""]",1,0.001
+Dental equipment,1,0.001
+"[""Construction"", ""Industrial""]",1,0.001
+Banking/Finance,1,0.001
+Advisory,1,0.001
+Critical Power Solutions,1,0.001
+Smart Home,1,0.001
+Golf Course Operations,1,0.001
+Information & Business Tech,1,0.001
+"[""Spirits & Wines""]",1,0.001
+Elevator and escalator manufacturing,1,0.001
+Academic Medicine,1,0.001
+"[""Cybersecurity""]",1,0.001
+"[""Health""]",1,0.001
+Pension/Financial Services,1,0.001
+Freight,1,0.001
+Information Technology Services & Consulting,1,0.001
+Logística,1,0.001
+Scientific Solutions,1,0.001
+Consumer Appliances,1,0.001
+"[""Construction"", ""Energy""]",1,0.001
+"[""Clinical Trials""]",1,0.001
+"[""Clinical Research""]",1,0.001
+Oil &amp; Gas,1,0.001
+Consumer Experience,1,0.001
+Fintech / Financial Services,1,0.001
+Cleaning,1,0.001
+Mining & Infrastructure,1,0.001
+Food & Nutrition,1,0.001
+"[""Marketing"", ""Digital Marketing""]",1,0.001
+Home improvement,1,0.001
+Corporate Functions,1,0.001
+Executive,1,0.001
+"[""Financial services""]",1,0.001
+Media & Technology,1,0.001
+Information Technology & Digital,1,0.001
+Data Analytics,1,0.001
+Youth Justice,1,0.001
+Fromageries,1,0.001
+IT Infrastructure,1,0.001
+"[""Leisure & Culture""]",1,0.001
+Chemistry & Biochemistry,1,0.001
+Health & Human Services,1,0.001
+Corporate Sales,1,0.001
+"[""Architecture"", ""Engineering""]",1,0.001
+"[""Construction"", ""Maintenance""]",1,0.001
+Quantum Mathematics,1,0.001
+"[""Installation - Maint - Repair""]",1,0.001
+"[""Tecnología de la Información""]",1,0.001
+Industria láctea,1,0.001
+Tecnico,1,0.001
+Soporte al Negocio,1,0.001
+Consumer Sales and Services Management,1,0.001
+Engineering and Asset Management,1,0.001
+Energy and Utilities,1,0.001
+Transport & Infrastructure,1,0.001
+"[""Early Childhood Education""]",1,0.001
+"[""Retail"", ""Supermarket""]",1,0.001
+Banking Operations,1,0.001
+Parts - Dealership,1,0.001
+"[""Police""]",1,0.001
+"[""Manufacturing"", ""Industrial""]",1,0.001
+Service & Maintenance,1,0.001
+Customer Relationship Management,1,0.001
+Energy Solutions,1,0.001
+Global Trade,1,0.001
+Installation & Service,1,0.001
+Wireless,1,0.001
+Supply Chain & Distribution,1,0.001
+Optical Devices,1,0.001
+Botany,1,0.001
+Government & Community Affairs,1,0.001
+"[""Aerospace"", ""Defense""]",1,0.001
+Cyber Security,1,0.001
+Custodial Services,1,0.001
+"[""Healthcare"", ""Community Health""]",1,0.001
+Semiconductor Equipment,1,0.001
+"[""Nuclear"", ""Energy""]",1,0.001
+"[""Finance"", ""Economics""]",1,0.001
+Entry Level,1,0.001
+Other Clinical,1,0.001
+Health & Wellness,1,0.001
+Supply Chain Technology,1,0.001
+Event Services,1,0.001
+"[""Home Care""]",1,0.001
+Music Education,1,0.001
+"[""Energy Infrastructure""]",1,0.001
+"[""Financial Services"", ""FinTech""]",1,0.001
+"[""Retail"", ""Security""]",1,0.001
+Custodian,1,0.001
+Clinical Laboratory,1,0.001
+Rehabilitation Services,1,0.001
+Infrastructure and Service Delivery,1,0.001
+"Governance, Risk & Compliance",1,0.001
+Digital Security,1,0.001
+MarTech,1,0.001
+Facilities Maintenance,1,0.001
+"Defense, Space, Security",1,0.001
+Clerical and administrative non clinical,1,0.001
+Legal Technology,1,0.001
+eCommerce,1,0.001
+Supply Chain & Logistics,1,0.001
+"Imaging, Radiology, Technologists",1,0.001
+Enterprise Solutions,1,0.001
+Security & Fire,1,0.001
+Spa,1,0.001
+Industrial Refrigeration,1,0.001
+News Production,1,0.001
+Autism services,1,0.001
+"[""Electrical"", ""Industrial""]",1,0.001
+Supply & Logistics,1,0.001
+Oncology,1,0.001
+Autism Services,1,0.001
+Special Needs,1,0.001
+Sales Support,1,0.001
+Speech Therapy,1,0.001
+Database Engineering,1,0.001
+"[""Manufacturing"", ""Retail"", ""Consumer Goods""]",1,0.001
+"[""Healthcare"", ""EdTech""]",1,0.001
+Food Equipment,1,0.001
+Sales/Leasing,1,0.001
+Water Technology,1,0.001
+Hazardous Waste,1,0.001
+Environmental Compliance,1,0.001
+"[""Industrial Automation"", ""Robotics""]",1,0.001
+Car Sales,1,0.001
+Cryogenic Pumps,1,0.001
+"[""Education"", ""Nonprofit""]",1,0.001
+Retail_Services,1,0.001
+Merchandising,1,0.001
+Behavioral Therapy,1,0.001
+AI/Tech,1,0.001
+Pharmacy Services,1,0.001
+Primary Health Services,1,0.001
+Public Health Services,1,0.001
+Technologists and Technicians,1,0.001
+Construction Logistics,1,0.001
+Video Games,1,0.001
+Community Care,1,0.001
+Health Services,1,0.001
+Payments & Settlement,1,0.001
+Private Banking,1,0.001
+Parking Operations,1,0.001
+Transportation/Shuttle Operations,1,0.001
+"[""Parking Operations""]",1,0.001
+"[""Media Analytics"", ""Data Science""]",1,0.001
+"[""Retail"", ""Food Service""]",1,0.001
+Social Responsibility,1,0.001
+Mental health,1,0.001
+Automotive & Transportation,1,0.001
+"[""Recruitment"", ""HR Tech""]",1,0.001
+Flavor & Fragrance,1,0.001
+Purchasing - Procurement,1,0.001
+Clinical Care,1,0.001
+IT Security,1,0.001
+Conference/Guest Services,1,0.001
+Buildings and Grounds,1,0.001
+Manufactura,1,0.001
+Footwear,1,0.001
+Construction Software,1,0.001
+Sports Nutrition,1,0.001
+"[""Retail Services""]",1,0.001
+"[""Software"", ""SaaS""]",1,0.001
+"[""Retail & Wholesale""]",1,0.001
+"[""Healthcare"", ""Research""]",1,0.001
+Academic/Research Services,1,0.001
+IT Software Development,1,0.001
+Auction,1,0.001
+Direct Sales,1,0.001
+Health & Safety,1,0.001
+Museums/Heritage,1,0.001
+Diagnostics,1,0.001
+"[""Advertising""]",1,0.001
+Fuel Services,1,0.001
+"[""Transportation"", ""Infrastructure""]",1,0.001
+Casino,1,0.001
+Golf Operations,1,0.001
+"[""Robotics"", ""Industrial Automation""]",1,0.001
+Beverage Alcohol,1,0.001
+Imaging/Radiology,1,0.001
+Cardiology/Cardivasc/Cath Lab,1,0.001
+Applied Behavior Analysis,1,0.001
+Parking Services,1,0.001
+"[""Agriculture technology""]",1,0.001
+Professional services,1,0.001
+Asset Management,1,0.001
+"[""Luxury""]",1,0.001
+Waste infrastructure,1,0.001
+Marine,1,0.001
+Learning & Development,1,0.001
+Publishing,1,0.001
+Nonprofit environmental,1,0.001
+Software & IT,1,0.001
+"[""Aerospace""]",1,0.001
+Energy/Utilities,1,0.001
+Food & Beverage Manufacturing,1,0.001
+Real Estate/Property Management,1,0.001
+Industrial Distribution,1,0.001
+"[""Software Engineering""]",1,0.001
+"[""Environmental testing""]",1,0.001
+Environmental Testing,1,0.001
+Digital Production,1,0.001
+Environmental Analysis,1,0.001
+"[""Environmental Testing""]",1,0.001
+"[""Pharmacovigilance"", ""Quality Assurance""]",1,0.001
+Materials Recycling,1,0.001
+Healthcare Support,1,0.001
+Operations and Maintenance,1,0.001
+Technical Engineering,1,0.001
+"[""Security""]",1,0.001
+"[""Legal""]",1,0.001
+Technology Operations,1,0.001
+Travel Management,1,0.001
+"[""Finance"", ""Corporate Development""]",1,0.001
+Safety Science,1,0.001
+Processes and Chemicals,1,0.001
+Viral Marketing,1,0.001
+Fire & Safety,1,0.001
+Nuclear Energy,1,0.001
+Hydro Power,1,0.001
+"[""Healthcare"", ""Digital Health""]",1,0.001
+Health Tech,1,0.001
+EPD Established Pharma,1,0.001
+Table Games,1,0.001
+Automotive and Industrial,1,0.001
+Automotive Parts Distribution,1,0.001
+Industrial Products,1,0.001
+"[""Healthcare"", ""Clinical Services""]",1,0.001
+Digital Services,1,0.001
+Finance/Accounting,1,0.001
+Data,1,0.001
+Pharma,1,0.001
+Field Marketing,1,0.001
+Games Logistics & Services,1,0.001
+Industrial Cleaning,1,0.001
+Oil Recycling,1,0.001
+"[""Industrial Supplies""]",1,0.001
+"[""Consulting"", ""Technology Services""]",1,0.001
+IT/IS,1,0.001
+"[""Retail"", ""Construction""]",1,0.001
+Real Estate Technology,1,0.001
+"[""Finance"", ""FinTech""]",1,0.001
+Engineering Consulting,1,0.001
+Business Operations,1,0.001
+"[""Energy & Utilities""]",1,0.001
+Sales and Client Management,1,0.001
+Corporate - Sustainability,1,0.001
+"Health, Safety & Risk Management",1,0.001
+Technology Commercialization,1,0.001
+Home Health,1,0.001
+Arts & Culture,1,0.001
+Electronics,1,0.001
+Automotive Technology,1,0.001
+Federal contracting,1,0.001
+Marketing Services,1,0.001
+Healthcare Staffing,1,0.001
+"[""Environmental Consulting""]",1,0.001
+Industrial Safety,1,0.001
+Engineering & Professional Services,1,0.001
+Transit and Rail Engineering,1,0.001
+Rail & Transit,1,0.001
+Transportation & Infrastructure,1,0.001
+Geography/GIS,1,0.001
+Tech,1,0.001
+Geotechnical Engineering,1,0.001
+Aircraft Installation,1,0.001
+Custodial,1,0.001
+Energy & AI Infrastructure,1,0.001
+Marketing & Sales,1,0.001
+Hosting,1,0.001
+Environmental & Safety Compliance,1,0.001
+Cosmetology,1,0.001
+Ford Customer Service,1,0.001
+Multifamily Property Management,1,0.001
+IoT,1,0.001
+Health and Safety,1,0.001
+"[""Electrical Engineering""]",1,0.001
+Electrical Safety,1,0.001
+Alternative Asset Advisory,1,0.001
+Rehabilitation Therapies,1,0.001
+Retail Distribution,1,0.001
+Finance & Strategy,1,0.001
+Retail Media,1,0.001
+Delivery services,1,0.001
+"Rail, Compliance, Management",1,0.001
+"[""Health care""]",1,0.001
+HVAC/R Distribution,1,0.001
+Materials & Procurement,1,0.001
+Supply Chain and Procurement,1,0.001
+Quality Management,1,0.001
+Tire Service,1,0.001
+"[""Telecommunications""]",1,0.001
+"[""Technology Risk""]",1,0.001
+"[""Sustainability"", ""Communications""]",1,0.001
+AgTech,1,0.001
+Architecture & Engineering,1,0.001
+Non-Profit Services,1,0.001
+"[""beauty & wellness"", ""SaaS""]",1,0.001
+Corporate Communications,1,0.001
+Power Generation,1,0.001
+"[""Power Generation""]",1,0.001
+Construction Technology,1,0.001
+Building Envelope,1,0.001
+"[""Finance"", ""Accounting""]",1,0.001
+Housing & Urban Development,1,0.001
+Shipping,1,0.001
+"[""Real Estate"", ""Financial Services""]",1,0.001
+Facility Operations,1,0.001
+"[""Tax"", ""Accounting""]",1,0.001
+"[""Real estate"", ""Construction"", ""Capital projects""]",1,0.001
+"[""Real estate"", ""Private equity""]",1,0.001
+Elevator & Escalator,1,0.001
+Technology & Logistics,1,0.001
+Retail & Food Delivery,1,0.001
+Industrial Water,1,0.001
+Marine & Powersports,1,0.001
+Real Estate Advisory,1,0.001
+Cloud Services,1,0.001
+Sales & Programs,1,0.001
+Building Engineering,1,0.001
+Environnement,1,0.001
+Museum & Cultural Institutions,1,0.001
+Paid Media,1,0.001
+"[""Marketing"", ""Advertising""]",1,0.001
+"[""Retail"", ""Telecommunications""]",1,0.001
+Real Estate Finance,1,0.001
+Survey,1,0.001
+Self Storage,1,0.001
+Digital Experience Agency,1,0.001
+Mechanical Engineering,1,0.001
+"[""Aviation"", ""Technology""]",1,0.001
+Amusement Park,1,0.001
+Data & AI,1,0.001
+Automotive Electronics,1,0.001
+MEMS,1,0.001
+Clinics,1,0.001
+"[""Healthcare Technology""]",1,0.001
+Executive Search,1,0.001
+"[""Engineering"", ""Construction"", ""Infrastructure""]",1,0.001
+"[""Economic development""]",1,0.001
+Printing,1,0.001
+"[""Chemistry"", ""Materials Science""]",1,0.001
+"[""Marketing"", ""Design""]",1,0.001
+Materials & Packaging,1,0.001
+"[""Pharmacy""]",1,0.001
+Packaging,1,0.001
+Corporate Executive,1,0.001
+"[""Cyber Security""]",1,0.001
+Medical Services,1,0.001
+Manufacturing & Distribution,1,0.001
+Retail & E‑commerce,1,0.001
+Event Management,1,0.001
+Near Eastern and South Asian Languages and Cultures,1,0.001
+Elevator Services,1,0.001
+Industrial Sales,1,0.001
+Dietary,1,0.001
+Wholesale Distribution,1,0.001
+Craft,1,0.001
+Water & Environment,1,0.001
+"[""Industrial Equipment""]",1,0.001
+Conversion Intelligence,1,0.001
+Metal Recycling,1,0.001
+Commercial Trucking,1,0.001
+Behavior Therapy,1,0.001
+"[""Retail"", ""Convenience store""]",1,0.001
+Business Development,1,0.001
+Auto Repair,1,0.001
+"[""Charity""]",1,0.001
+"[""Workforce Development""]",1,0.001
+Disability Support,1,0.001
+"[""Health insurance"", ""Tech""]",1,0.001
+"[""Healthcare"", ""Revenue Cycle Management""]",1,0.001
+Support,1,0.001
+Warehouse & Logistics,1,0.001
+Engineering & Maintenance,1,0.001
+Retail & Wholesale,1,0.001
+Corporate Development,1,0.001
+"[""Environmental Engineering"", ""Construction Services""]",1,0.001
+Food Sales,1,0.001
+Cloud Infrastructure,1,0.001
+Sustainability Consulting,1,0.001
+Investment Banking,1,0.001
+Development,1,0.001
+Peace and Security,1,0.001
+Space Exploration,1,0.001
+"[""Private Banking""]",1,0.001
+"[""Investment banking""]",1,0.001
+Aviation Maintenance,1,0.001
+Localization,1,0.001
+Military,1,0.001
+Self‑storage,1,0.001
+Construction & Services,1,0.001
+"[""Recruiting"", ""Human Resources""]",1,0.001
+Training & Development,1,0.001
+"[""Human Resources""]",1,0.001
+"[""Healthcare"", ""Insurance""]",1,0.001
+HVAC Services,1,0.001
+"[""Healthcare"", ""Information Technology""]",1,0.001
+Application Security,1,0.001
+Luxury Marketing,1,0.001
+Recreation and Sports,1,0.001
+"[""Retail"", ""Distribution""]",1,0.001
+"[""Higher Education"", ""Research""]",1,0.001
+Technology Hardware,1,0.001
+Military Housing,1,0.001
+Merchandise,1,0.001
+Payroll Services,1,0.001
+Field Service Management,1,0.001
+Software Testing,1,0.001
+Products and Solutions - Engineering,1,0.001
+"[""Construction Materials""]",1,0.001
+"[""Services""]",1,0.001
+Leasing,1,0.001
+"[""Financial Services"", ""Wealth Management""]",1,0.001
+"[""Information Technology"", ""Enterprise Platforms""]",1,0.001
+"[""Gaming"", ""Technology""]",1,0.001
+"[""Fintech""]",1,0.001
+"[""Sales"", ""Business Development""]",1,0.001
+Industrial Solutions,1,0.001
+Housekeeping & Maintenance,1,0.001
+Nursing Assistant & Medication Aide,1,0.001
+Energy and Environment,1,0.001
+Automation,1,0.001
+Safety Services,1,0.001
+Storage,1,0.001
+Corporate Training,1,0.001
+Teletherapy,1,0.001
+"[""Infrastructure"", ""Engineering""]",1,0.001
+Engineering & Architecture,1,0.001
+Water Engineering,1,0.001
+Tax Technology,1,0.001
+IT Consulting,1,0.001
+Installation - Maint - Repair,1,0.001
+Water,1,0.001
+Public Service,1,0.001
+Hardware Engineering,1,0.001
+"[""Engineering & Technology""]",1,0.001
+Trust & Safety,1,0.001
+Forestry/Environmental,1,0.001
+Patient Service Center,1,0.001
+Endoscopy,1,0.001
+Channel Sales,1,0.001
+Fuel Distribution,1,0.001
+"[""Legal"", ""Regulatory""]",1,0.001
+Recruiting,1,0.001
+Health Information Technology,1,0.001
+"[""Information Technology"", ""Security""]",1,0.001
+"[""Industrial Equipment Maintenance""]",1,0.001
+Restaurant Staff,1,0.001
+"[""Financial Services"", ""Insurance""]",1,0.001
+Restaurant Management,1,0.001
+Wealth,1,0.001
+Ministry,1,0.001
+Business Services,1,0.001
+AEC,1,0.001
+"[""Marketing & Vertrieb""]",1,0.001
+Urgent Care,1,0.001
+"[""Private aviation""]",1,0.001
+Internal Technology,1,0.001
+"[""Energy"", ""Technology""]",1,0.001
+Public Library,1,0.001
+Construction & Building Inspection,1,0.001
+Grocery,1,0.001
+Marketing and Admissions,1,0.001
+"[""Healthcare"", ""Senior Living""]",1,0.001
+"[""Technology"", ""Infrastructure""]",1,0.001
+"[""Education"", ""Corrections""]",1,0.001
+Corporate Supply Chain & Logistics,1,0.001
+Behavioral Intervention,1,0.001
+Government Contract,1,0.001
+Microsoft,1,0.001
+"[""Technology"", ""Engineering""]",1,0.001
+Natural Resources,1,0.001
+"[""Public Works""]",1,0.001
+"[""Technology"", ""Consulting""]",1,0.001
+Court,1,0.001
+"[""Construction Technology""]",1,0.001
+Wildlife Conservation,1,0.001
+"[""Marketing"", ""Social Media"", ""Content Strategy""]",1,0.001
+"[""Sustainability"", ""Supply Chain""]",1,0.001
+"[""Agriculture"", ""Environmental Science""]",1,0.001
+Automotive Service,1,0.001
+"[""Advertising"", ""Marketing""]",1,0.001
+Automotive & Powersports,1,0.001
+Home Services,1,0.001
+Bakery,1,0.001
+Spa & Wellness,1,0.001
+Fitness & Wellness,1,0.001
+Housing,1,0.001
+Studio Operations,1,0.001
+Public Relations,1,0.001
+Restaurant Technology,1,0.001
+"Banking, Lending & Trust",1,0.001
+Merchant Services,1,0.001
+Vehicle Operations,1,0.001
+Neuroscience,1,0.001
+Animal Care,1,0.001
+Equipment Maintenance,1,0.001
+Commercial and Business Sales,1,0.001
+Royalties & Copyright,1,0.001
+Business Banking,1,0.001
+"Technology, Digital and Data",1,0.001
+RV Dealership,1,0.001
+"Defense & Security, Aerospace & Space, Cyber & Digital",1,0.001
+Print & Communications,1,0.001
+Manufacturing & Quality Systems,1,0.001
+Data Center Solutions,1,0.001
+Cannabis Retail,1,0.001
+Enterprise Software,1,0.001
+Paint Coatings (Automotive),1,0.001
+Platform Product Ops,1,0.001
+Sports Medicine,1,0.001
+Technology & Solutions,1,0.001
+"[""Pharmacy"", ""Retail Healthcare""]",1,0.001
+"[""Healthcare"", ""Health Insurance""]",1,0.001
+Customer Success,1,0.001
+Industrial Manufacturing,1,0.001
+Industrial Engineering,1,0.001
+"[""Technology"", ""Employee Experience""]",1,0.001
+Software Licensing,1,0.001
+"[""Consulting"", ""Technology""]",1,0.001
+"[""Executive Support""]",1,0.001
+Charity,1,0.001
+High Tech,1,0.001
+Information Technology & Services,1,0.001
+"[""Information Technology"", ""Consulting""]",1,0.001
+"[""Logistics"", ""Staffing""]",1,0.001
+Apparel,1,0.001
+Chemistry,1,0.001
+Health Systems,1,0.001
+Elevator & Escalator Services,1,0.001
+Telecom,1,0.001
+"[""Retail"", ""Hospitality""]",1,0.001
+"[""Retail"", ""Convenience Stores""]",1,0.001
+Financial Crime,1,0.001
+Environmental Solutions,1,0.001
+Customer Service/Experience,1,0.001
+Engineering - Process,1,0.001
+Engineering - Automation,1,0.001
+Design - Instrumentation,1,0.001
+Management Consulting,1,0.001
+Child Care,1,0.001
+Safety & Security,1,0.001
+"[""Healthcare"", ""Medical Devices""]",1,0.001
+Retail & Consumer Goods,1,0.001
+Apparel & Accessories,1,0.001
+Food manufacturing,1,0.001
+"[""Nonprofit""]",1,0.001
+"[""Retail"", ""Fashion""]",1,0.001
+Human Resource,1,0.001
+Corporate Social Responsibility,1,0.001
+Shipping & Logistics,1,0.001
+Healthcare Customer Service,1,0.001
+Data Science & Analysis,1,0.001
+Fire protection,1,0.001
+"[""Fire Protection""]",1,0.001
+Drivers - Route Delivery,1,0.001
+"[""Public Sector""]",1,0.001
+"[""Retail"", ""Home Improvement""]",1,0.001
+Operations Management,1,0.001
+Flight Operations,1,0.001
+"[""Public School""]",1,0.001
+"[""Transportation Operations""]",1,0.001
+Social care,1,0.001
+Property & Estates Management,1,0.001
+Facilities & Infrastructure Management,1,0.001
+0,1,0.001
+Institutional Trading,1,0.001
+Maritime Education,1,0.001
+Information Technology/Digital,1,0.001
+"[""Maintenance""]",1,0.001
+"[""Education"", ""Facilities Management""]",1,0.001
+Logistics/Distribution,1,0.001
+"[""Fitness"", ""Sports""]",1,0.001
+"[""Utilities"", ""Energy""]",1,0.001
+Creative & Premedia Services,1,0.001
+Security & Surveillance,1,0.001
+Instructional,1,0.001
+Fleet Services,1,0.001
+"[""Insurance"", ""Risk Management""]",1,0.001
+Electronics Manufacturing,1,0.001
+Dealership Management,1,0.001
+Brokerage,1,0.001
+"[""Safety and Training""]",1,0.001
+Student Media,1,0.001
+"[""Legal"", ""Information Technology""]",1,0.001
+"[""Medical Laboratory""]",1,0.001
+Accounting and Finance,1,0.001
+"[""Banking"", ""Financial services""]",1,0.001
+Sleep,1,0.001
+Bio Medical,1,0.001
+Product,1,0.001
+Quality Inspectors,1,0.001
+"[""security services""]",1,0.001
+Facilities and Support Services,1,0.001
+"[""Fintech"", ""Marketplace"", ""Identity Verification""]",1,0.001
+Student Life Services,1,0.001
+"[""AI"", ""Software Engineering""]",1,0.001
+"[""Education"", ""Event Management""]",1,0.001
+Other medical providers,1,0.001
+Information Systems,1,0.001
+Outreach,1,0.001
+Community Services,1,0.001
+"[""Mental Health""]",1,0.001

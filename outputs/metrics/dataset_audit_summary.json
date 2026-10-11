@@ -1,0 +1,12 @@
+{
+  "rows": 112816,
+  "columns": 47,
+  "exact_duplicate_rows": 0,
+  "unique_country_values": 540,
+  "valid_posting_dates": 20199,
+  "earliest_posting_date": "2018-09-07 00:00:00+00:00",
+  "latest_posting_date": "2027-09-01 00:00:00+00:00",
+  "nonempty_skills_fields": 80412,
+  "salary_min_available": 51829,
+  "salary_max_available": 47162
+}
