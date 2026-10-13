@@ -12,7 +12,7 @@ BASE = Path(__file__).resolve().parent
 PROFILE_PATH = BASE / "outputs" / "metrics" / "expanded" / "role_skill_frequency_expanded.csv"
 COUNTS_PATH = BASE / "outputs" / "metrics" / "expanded" / "role_posting_counts_expanded.csv"
 
-st.set_page_config(page_title="FuturePath AI", page_icon="🎯", layout="wide")
+st.set_page_config(page_title="FuturePath AI", layout="wide")
 
 st.title("FuturePath AI")
 st.subheader("Labor Market Intelligence & Career Optimization")
@@ -89,8 +89,12 @@ with st.sidebar:
         height=120
     )
     analyze = st.button("Analyze my skills", type="primary", use_container_width=True)
+    if analyze:
+        st.session_state["analysis_complete"] = True
 
-if analyze:
+
+#if analyze:
+if analyze or st.session_state.get("analysis_complete", False):
     resume_text = extract_resume_text(uploaded)
     #role_profiles = profiles[profiles["target_role"] == target_role].copy()
     #role_profiles = role_profiles[
@@ -210,6 +214,87 @@ if analyze:
         file_name="futurepath_career_recommendations.csv",
         mime="text/csv",
     )
+
+        # Explore the skill gaps for any recommended career role.
+    st.header("Explore a recommended role")
+
+    recommended_roles = recommendations["target_role"].tolist()
+
+    default_index = (
+        recommended_roles.index(target_role)
+        if target_role in recommended_roles
+        else 0
+    )
+
+    detail_role = st.selectbox(
+        "Choose a career role to explore",
+        recommended_roles,
+        index=default_index,
+        key="role_explorer_select",
+    )
+
+    detail = recommendations[
+        recommendations["target_role"] == detail_role
+    ].iloc[0]
+
+    matched_skills = detail["matched_skills"]
+    missing_skills = detail["missing_skills"]
+
+    col1, col2, col3 = st.columns(3)
+    col1.metric(
+        "Skill coverage",
+        f"{detail['role_fit_score']:.1f}%",
+    )
+    col2.metric("Matched skills", int(detail["matched_count"]))
+    col3.metric("Skills to review", int(detail["missing_count"]))
+
+    st.write(
+        "Compare your detected skills with the selected role's "
+        "job-posting skill profile."
+    )
+
+    comparison_rows = [
+        {"Skill": skill, "Status": "Matched"}
+        for skill in matched_skills
+    ] + [
+        {"Skill": skill, "Status": "Not detected"}
+        for skill in missing_skills
+    ]
+
+    role_comparison = pd.DataFrame(
+        comparison_rows,
+        columns=["Skill", "Status"],
+    )
+
+    if not role_comparison.empty:
+        status_counts = (
+            role_comparison["Status"]
+            .value_counts()
+            .reindex(["Matched", "Not detected"], fill_value=0)
+        )
+
+        st.subheader("Skill coverage breakdown")
+        st.bar_chart(status_counts)
+
+        st.subheader("Skills for this role")
+        st.dataframe(
+            role_comparison,
+            use_container_width=True,
+            hide_index=True,
+        )
+
+        role_report = role_comparison.copy()
+        role_report.insert(0, "Target role", detail_role)
+        role_report["Skill coverage (%)"] = detail["role_fit_score"]
+
+        st.download_button(
+            "Download this role's skill-gap report",
+            data=role_report.to_csv(index=False).encode("utf-8"),
+            file_name="futurepath_selected_role_report.csv",
+            mime="text/csv",
+            key="download_selected_role_report",
+        )
+
 
 
     role_count = counts[counts["target_role"] == target_role]
