@@ -1,0 +1,21 @@
+{
+  "dataset": "data\\raw\\nextgig_jobs_2026-06.parquet",
+  "method": "Exact-title, deduplicated, stratified holdout",
+  "train_fraction": 0.8,
+  "random_seed": 42,
+  "roles": [
+    "Accountant",
+    "Business Analyst",
+    "Data Analyst",
+    "Data Engineer",
+    "Data Scientist",
+    "Financial Analyst",
+    "Product Manager",
+    "Project Manager",
+    "Software Engineer"
+  ],
+  "training_postings": 444,
+  "test_postings": 116,
+  "unique_examples_before_split": 560,
+  "important_caveat": "Exploratory evaluation on exact-title postings. Results do not establish resume-level career suitability or future labour-market forecasting accuracy."
+}

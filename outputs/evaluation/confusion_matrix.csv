@@ -1,0 +1,10 @@
+Actual role,Accountant,Business Analyst,Data Analyst,Data Engineer,Data Scientist,Financial Analyst,Product Manager,Project Manager,Software Engineer
+Accountant,4,0,0,0,0,4,0,0,0
+Business Analyst,0,10,0,0,0,0,0,0,0
+Data Analyst,0,0,3,0,2,1,0,0,0
+Data Engineer,0,0,2,7,1,0,0,1,0
+Data Scientist,0,0,0,0,9,0,0,0,0
+Financial Analyst,0,0,0,0,0,9,0,0,0
+Product Manager,0,1,0,0,0,0,9,0,0
+Project Manager,0,0,0,0,0,0,0,31,0
+Software Engineer,0,1,0,0,0,0,0,0,21

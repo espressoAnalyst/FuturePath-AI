@@ -1,0 +1,2 @@
+test_postings,training_postings,evaluated_roles,random_seed,model_top1,model_precision_at_3,model_recall_at_3,model_ndcg_at_3,frequency_top1,frequency_precision_at_3,frequency_recall_at_3,frequency_ndcg_at_3,jaccard_top1,jaccard_precision_at_3,jaccard_recall_at_3,jaccard_ndcg_at_3,recommendation_coverage
+116,444,9,42,0.8879310344827587,0.3304597701149426,0.9913793103448276,0.9520709249076383,0.2672413793103448,0.18390804597701146,0.5517241379310345,0.43431426360837994,0.8620689655172413,0.3304597701149426,0.9913793103448276,0.9436547095135507,1.0
