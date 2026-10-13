@@ -3,6 +3,7 @@ import re
 import io
 import pandas as pd
 import streamlit as st
+from career_recommender import recommend_roles
 
 BASE = Path(__file__).resolve().parent
 
@@ -91,23 +92,40 @@ with st.sidebar:
 
 if analyze:
     resume_text = extract_resume_text(uploaded)
+    #role_profiles = profiles[profiles["target_role"] == target_role].copy()
+    #role_profiles = role_profiles[
+     #   role_profiles["percentage_of_postings_with_skills"] >= 10
+    #].sort_values("posting_count", ascending=False).head(15)
 
+    #if role_profiles.empty:
+     #   st.error("No usable skill profile exists for this role.")
+      #  st.stop()
+
+    #detected_skills = set()
+
+    # Build the selected role's profile for the existing skill-gap analysis.
     role_profiles = profiles[profiles["target_role"] == target_role].copy()
     role_profiles = role_profiles[
         role_profiles["percentage_of_postings_with_skills"] >= 10
-    ].sort_values("posting_count", ascending=False).head(15)
+].sort_values("posting_count", ascending=False)
+
+    # Normalize skill names and avoid duplicate aliases.
+    role_profiles["normalized_skill"] = role_profiles["skill"].map(normalize)
+    role_profiles = role_profiles.drop_duplicates("normalized_skill").head(15)
 
     if role_profiles.empty:
         st.error("No usable skill profile exists for this role.")
         st.stop()
 
+    # Detect skills across the entire dataset so other career roles can be recommended.
+    all_skills = profiles["skill"].dropna().unique()
     detected_skills = set()
-
     
     if resume_text.strip():
         resume_lower = re.sub(r"\s+", " ", resume_text.casefold())
 
-        for skill in role_profiles["skill"].dropna().unique():
+        #for skill in role_profiles["skill"].dropna().unique():
+        for skill in all_skills:
             normalized_skill = normalize(skill)
 
             # Include known alternative names for this skill.
@@ -128,6 +146,71 @@ if analyze:
     for skill in manual_skills.split(","):
         if skill.strip():
             detected_skills.add(normalize(skill))
+
+        # Recommend career roles using skills detected across the dataset.
+    recommendations = recommend_roles(
+        profiles=profiles,
+        detected_skills=detected_skills,
+        aliases=ALIASES,
+    )
+
+    if recommendations.empty:
+        st.warning("No career recommendations could be generated.")
+        st.stop()
+
+    st.header("Career recommendations")
+    st.write(
+        "These roles are ranked by skill coverage in their job-posting "
+        "profiles. The score is not a prediction of hiring probability."
+    )
+
+    col1, col2, col3 = st.columns(3)
+    col1.metric("Skills detected", len(detected_skills))
+    col2.metric("Roles evaluated", len(recommendations))
+    col3.metric(
+        "Best skill coverage",
+        f"{recommendations.iloc[0]['role_fit_score']:.1f}%",
+    )
+
+    st.subheader("Top recommended roles")
+
+    chart_data = (
+        recommendations.head(10)
+        .sort_values("role_fit_score")
+        .set_index("target_role")[["role_fit_score"]]
+    )
+
+    st.bar_chart(chart_data, horizontal=True)
+
+    st.dataframe(
+        recommendations[
+            [
+                "target_role",
+                "role_fit_score",
+                "matched_count",
+                "skills_used",
+                "missing_count",
+            ]
+        ].rename(
+            columns={
+                "target_role": "Recommended role",
+                "role_fit_score": "Skill coverage (%)",
+                "matched_count": "Matched skills",
+                "skills_used": "Skills evaluated",
+                "missing_count": "Skills to review",
+            }
+        ),
+        use_container_width=True,
+        hide_index=True,
+    )
+
+    st.download_button(
+        "Download career recommendations",
+        data=recommendations.to_csv(index=False).encode("utf-8"),
+        file_name="futurepath_career_recommendations.csv",
+        mime="text/csv",
+    )
+
 
     role_count = counts[counts["target_role"] == target_role]
     usable_count = int(role_count["postings_with_skills"].iloc[0])
