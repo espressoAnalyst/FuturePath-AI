@@ -295,6 +295,177 @@ if analyze or st.session_state.get("analysis_complete", False):
             key="download_selected_role_report",
         )
 
+        
+        # Labor-market skill demand exploration.
+    st.header("Labor-market skill demand")
+
+    st.write(
+        "Explore how frequently skills appear in job postings for a "
+        "selected career role. Frequencies describe this dataset, "
+        "not guaranteed future demand."
+    )
+
+    market_role = st.selectbox(
+        "Choose a role to explore market demand",
+        roles,
+        key="market_demand_role",
+    )
+
+    market_data = profiles[
+        profiles["target_role"] == market_role
+    ].copy()
+
+    market_data["percentage_of_postings_with_skills"] = pd.to_numeric(
+        market_data["percentage_of_postings_with_skills"],
+        errors="coerce",
+    )
+    market_data["posting_count"] = pd.to_numeric(
+        market_data["posting_count"],
+        errors="coerce",
+    ).fillna(0)
+
+    market_data = market_data.dropna(
+        subset=["percentage_of_postings_with_skills"]
+    )
+
+    market_data["normalized_skill"] = market_data["skill"].map(normalize)
+
+    market_data = (
+        market_data.sort_values(
+            "percentage_of_postings_with_skills",
+            ascending=False,
+        )
+        .drop_duplicates("normalized_skill")
+    )
+
+    if market_data.empty:
+        st.warning("No usable skill-demand data is available for this role.")
+    else:
+        top_n = st.slider(
+            "Number of skills to display",
+            min_value=5,
+            max_value=min(25, len(market_data)),
+            value=min(10, len(market_data)),
+            key="market_demand_top_n",
+        )
+
+        chart_data = (
+            market_data.head(top_n)
+            .sort_values("percentage_of_postings_with_skills")
+            .set_index("skill")[["percentage_of_postings_with_skills"]]
+        )
+
+        st.subheader(f"Most frequently mentioned skills: {market_role}")
+
+        st.bar_chart(
+            chart_data,
+            horizontal=True,
+        )
+
+        st.caption(
+            "Posting frequency (%) = the percentage of postings in the "
+            "role's underlying sample that mention a particular skill."
+        )
+
+        st.dataframe(
+            market_data.head(top_n)[
+                [
+                    "skill",
+                    "posting_count",
+                    "percentage_of_postings_with_skills",
+                ]
+            ].rename(
+                columns={
+                    "skill": "Skill",
+                    "posting_count": "Postings mentioning skill",
+                    "percentage_of_postings_with_skills": "Posting frequency (%)",
+                }
+            ),
+            use_container_width=True,
+            hide_index=True,
+        )
+
+        # Compare skill requirements across career roles.
+    st.header("Compare career roles")
+
+    comparison_roles = st.multiselect(
+        "Select career roles to compare",
+        roles,
+        default=[role for role in ["Data Analyst", "Business Intelligence Analyst"] if role in roles],
+        max_selections=4,
+        key="market_role_comparison",
+    )
+
+    if len(comparison_roles) < 2:
+        st.info("Select at least two roles to compare their skill requirements.")
+    else:
+        comparison_data = profiles[
+            profiles["target_role"].isin(comparison_roles)
+        ].copy()
+
+        comparison_data["normalized_skill"] = (
+            comparison_data["skill"].map(normalize)
+        )
+        comparison_data["percentage_of_postings_with_skills"] = pd.to_numeric(
+            comparison_data["percentage_of_postings_with_skills"],
+            errors="coerce",
+        )
+
+        comparison_data = comparison_data.dropna(
+            subset=["percentage_of_postings_with_skills"]
+        )
+
+        comparison_data = comparison_data.drop_duplicates(
+            ["target_role", "normalized_skill"]
+        )
+
+        comparison_data = comparison_data[
+            comparison_data["normalized_skill"].ne("")
+        ]
+
+        # Show the most relevant skills across the selected roles.
+        comparison_data["maximum_role_frequency"] = (
+            comparison_data.groupby("normalized_skill")[
+                "percentage_of_postings_with_skills"
+            ].transform("max")
+        )
+
+        top_shared_skills = (
+            comparison_data.groupby("normalized_skill")[
+                "maximum_role_frequency"
+            ].max()
+            .nlargest(12)
+            .index
+        )
+
+        plot_data = comparison_data[
+            comparison_data["normalized_skill"].isin(top_shared_skills)
+        ].copy()
+
+        comparison_chart = plot_data.pivot(
+            index="normalized_skill",
+            columns="target_role",
+            values="percentage_of_postings_with_skills",
+        ).fillna(0)
+
+        st.subheader("Skill demand across selected roles")
+        st.bar_chart(comparison_chart, horizontal=True)
+
+        st.caption(
+            "Each value is the percentage of postings in that role's "
+            "sample mentioning the skill. A zero here means no matching "
+            "skill entry was available in the selected profile."
+        )
+
+        st.subheader("Detailed role comparison")
+
+        st.dataframe(
+            comparison_chart.reset_index().rename(
+                columns={"normalized_skill": "Skill"}
+            ),
+            use_container_width=True,
+            hide_index=True,
+        )
 
 
     role_count = counts[counts["target_role"] == target_role]
