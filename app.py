@@ -13,7 +13,7 @@ COUNTS_PATH = BASE / "outputs" / "metrics" / "expanded" / "role_posting_counts_e
 
 st.set_page_config(page_title="FuturePath AI", page_icon="🎯", layout="wide")
 
-st.title("🎯 FuturePath AI")
+st.title("FuturePath AI")
 st.subheader("Labor Market Intelligence & Career Optimization")
 st.write(
     "Compare your skills with those reported in job postings "
@@ -103,15 +103,27 @@ if analyze:
 
     detected_skills = set()
 
+    
     if resume_text.strip():
-        resume_lower = resume_text.casefold()
+        resume_lower = re.sub(r"\s+", " ", resume_text.casefold())
+
         for skill in role_profiles["skill"].dropna().unique():
             normalized_skill = normalize(skill)
-            if re.search(
-                r"(?<!\w)" + re.escape(normalized_skill) + r"(?!\w)",
-                resume_lower
-            ):
-                detected_skills.add(normalized_skill)
+
+            # Include known alternative names for this skill.
+            variants = [normalized_skill]
+            variants.extend(
+                alias
+                for alias, canonical in ALIASES.items()
+                if canonical == normalized_skill
+            )
+
+            for variant in variants:
+                pattern = r"(?<!\w)" + re.escape(variant) + r"(?!\w)"
+                if re.search(pattern, resume_lower):
+                    detected_skills.add(normalized_skill)
+                    break
+
 
     for skill in manual_skills.split(","):
         if skill.strip():
